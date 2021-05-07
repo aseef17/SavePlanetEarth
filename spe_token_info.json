@@ -45,5 +45,42 @@
             "description": "100% Locked Team Tokens Vested over time via DxSale for marketing purposes and manual burns",
             "lottieAssetPath": "assets/animations/locked-marketing.json"
         }
+    ],
+    "socials": [
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/instagram.png",
+            "clickable": true,
+            "redirectURL": "https://www.instagram.com/saveplanetearthofficial/"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/twitter.png",
+            "clickable": true,
+            "redirectURL": "https://twitter.com/SPE_Token_BSC"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/facebook.png",
+            "clickable": true,
+            "redirectURL": "https://www.facebook.com/saveplanetearthofficial"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/youtube.png",
+            "clickable": true,
+            "redirectURL": "https://www.youtube.com/channel/UCKr-nJK-1NGg6I8v9lRp_sQ"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/reddit.png",
+            "clickable": true,
+            "redirectURL": "https://www.reddit.com/r/SPEOfficial/"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/discord.png",
+            "clickable": true,
+            "redirectURL": "https://discord.com/invite/XAz9vYGx7R"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/telegram.png",
+            "clickable": true,
+            "redirectURL": "https://t.me/SavePlanetEarthOfficial"
+        }
     ]
 }
