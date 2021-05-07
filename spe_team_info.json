@@ -28,6 +28,19 @@
             ]
         },
         {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/salih.jpeg",
+            "name": "Sajid Salih",
+            "designation": "Product Manager",
+            "description": "Having past experience in corporate finance, project management, eCommerce and mobile platforms with startups since 2016.",
+            "socials": [
+                {
+                    "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/linkedin.png",
+                    "clickable": true,
+                    "redirectURL": "https://www.linkedin.com/in/thatsalih"
+                }
+            ]
+        },
+        {
             "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/atula.png",
             "name": "Prof. Atula Senaratne",
             "designation": "Technical Advisor",
