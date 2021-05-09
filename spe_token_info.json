@@ -83,7 +83,7 @@
             "redirectURL": "https://t.me/SavePlanetEarthOfficial"
         }
     ],
-    "donations": [
+    "donationsWallets": [
         {
             "address": "0x51E6d08721401f2ec874C996fcE0f1bCBF9317c9",
             "description": "This is our ERC20/BEP20 address for crypto donations for SavePlanetEarth, any form of crypto donated to this address is accepted. All donations will be used for planting trees, every dollar donated will plant one tree. Thank you for your collaboration in helping to Save Planet Earth.",
