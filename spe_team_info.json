@@ -54,17 +54,31 @@
             ]
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/asad.jpeg",
-            "name": "Asad Mohammad",
-            "designation": "Community Manager",
-            "description": "I graduated from a high ranked business school, EDHEC, Paris. I've acquired strong management and financial skills throughout my experiences.",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/iftikhar.jpeg",
+            "name": "Iftikhar Bokhari",
+            "designation": "Technical Advisor",
+            "description": "Over 25 years of experience in project management and a recognized track record of delivering multi million pound contracts for urban regeneration and project engineering within the UK. Specializing on energy from waste systems, integration of renewable technologies for domestic and commercial applications, research and strategic planning.",
+            "socials": []
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/graham.jpeg",
+            "name": "Graham Walwyn",
+            "designation": "Technical Advisor",
+            "description": "Senior Project Engineer - specializing in electrical design, costing and procurement. Worked on a range of multi million pound developments which range from medical, commercial and domestic systems. Also specializing in the design,installation and maintenance of renewable energy technology.",
             "socials": [
                 {
                     "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/linkedin.png",
                     "clickable": true,
-                    "redirectURL": "https://www.linkedin.com/in/asad-mohammad-454827139"
+                    "redirectURL": "https://www.linkedin.com/in/graham-walwyn-ceng-84963830"
                 }
             ]
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/waqar.jpeg",
+            "name": "Prof. Waqar Ahmed",
+            "designation": "Technical Advisor",
+            "description": "Over 30 years of industrial and academic experience in engineering and science. Leads the Experimental Nano physics Group focusing on Renewable Energy Technology and Sustainability. Accredited with over 500 publications on a range of engineering and science journals and has worked across many projects throughout Europe, Middle East, USA and Asia.",
+            "socials": []
         },
         {
             "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/aaron.jpeg",
