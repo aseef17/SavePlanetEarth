@@ -3,7 +3,7 @@
     "token_data": [
         {
             "title": "Total Holders",
-            "value": 71861,
+            "value": 72709,
             "description": "Our valued Diamond hands number",
             "lottieAssetPath": "assets/animations/diamond-hands.json"
         },
@@ -15,7 +15,7 @@
         },
         {
             "title": "Tokens Burnt",
-            "value": 406227002317874,
+            "value": 406257002317874,
             "description": "Total amount of SPE permanently burned",
             "lottieAssetPath": "assets/animations/tokens-burnt.json"
         }
