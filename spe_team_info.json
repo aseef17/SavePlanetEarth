@@ -2,7 +2,7 @@
     "updated_on": "2021-05-06 04:39:52",
     "team": [
         {
-            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/imran.jpg",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/imran.jpeg",
             "name": "Imran Ali",
             "designation": "Founder",
             "description": "A qualified Prince II Practitioner who has minimum 10 years’ experience in a senior management role with both external audit and in-house financial management experience gained in high-growth organisations including Citibank, National Health Service and UK and foreign government institutions.",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/salih.png",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/salih.jpeg",
             "name": "Sajid Salih",
             "designation": "Product Manager",
             "description": "Having past experience in corporate finance, project management, eCommerce and mobile platforms with startups since 2016.",
@@ -37,6 +37,19 @@
                     "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/linkedin.png",
                     "clickable": true,
                     "redirectURL": "https://www.linkedin.com/in/thatsalih"
+                }
+            ]
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/rahula.jpeg",
+            "name": "Prof. Rahula Attallage",
+            "designation": "Technical Advisor",
+            "description": "Prof. Rahula Attallage holds a Ph.D. in Energy Engineering from Ecole Nationale Superieure des Mines de Paris, France. He has worked as a Senior Professor in Mechanical Engineering in the Dept. of Mechanical Engineering, University of Moratuwa. Prof. Attalage has been awarded the Outstanding Research Award and Presidential Awards for Scientific Publications multiple times. His latest achievement is an Honorary Distinction of 'Order of the Academic Palms' award by the Government of France.",
+            "socials": [
+                {
+                    "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/linkedin.png",
+                    "clickable": true,
+                    "redirectURL": "https://www.linkedin.com/in/rahula-attalage-b8288517"
                 }
             ]
         },
