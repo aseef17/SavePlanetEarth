@@ -1,0 +1,45 @@
+{
+    "updated_on": "2021-05-17 11:33:45",
+    "markets": [
+        {
+            "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/bitmart-dark.png",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/bitmart.png",
+            "name": "BitMart",
+            "redirectURL": "",
+            "tradePair": "USDT",
+            "listed": "TBA"
+        },
+        {
+            "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/hotbit-dark.png",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/hotbit.png",
+            "name": "HotBit",
+            "redirectURL": "",
+            "tradePair": "USDT",
+            "listed": "05.18.2021"
+        },
+        {
+            "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/cointiger-dark.png",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/cointiger.png",
+            "name": "CoinTiger",
+            "redirectURL": "https://www.cointiger.com/en-us/#/trade_center?coin=spe_usdt",
+            "tradePair": "USDT",
+            "listed": "05.14.2021"
+        },
+        {
+            "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/whitebit.png",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/whitebit.png",
+            "name": "WhiteBit",
+            "redirectURL": "https://whitebit.com/trade/SPE_USDT",
+            "tradePair": "USDT",
+            "listed": "04.28.2021"
+        },
+        {
+            "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/pcs.png",
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/pcs.png",
+            "name": "PancakeSwap",
+            "redirectURL": "https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0xdbaaa36b347d56b77ce0e36f050fceebbf9fbc38",
+            "tradePair": "BNB",
+            "listed": "04.09.2021"
+        }
+    ]
+}
