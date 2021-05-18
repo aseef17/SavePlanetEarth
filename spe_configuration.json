@@ -3,6 +3,15 @@
     "announcements": [
         {
             "announcementType": "achievement",
+            "announcementLabel": "SPE_100M_TREES_DEAL",
+            "announcementTitle": "🌲100,000,000 TREE-PLANTING INITIATIVE CONFIRMED🌲",
+            "announcementDescription": "SavePlanetEarth leads a revolutionary 100 MILLION tree-planting initiative in SRI LANKA.",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/100m-trees-announcement.png",
+            "clickable": true,
+            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1394661579074031622"
+        },
+        {
+            "announcementType": "achievement",
             "announcementLabel": "SPE_75k_Holders",
             "announcementTitle": "Earthlings! We've reached yet another milestone. 🌏",
             "announcementDescription": "Congratulations on reaching 75,000 $SPE HOLDERS! 🌳 Join our mission! Save our planet.",
