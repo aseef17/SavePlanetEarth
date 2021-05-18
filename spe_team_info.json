@@ -81,6 +81,19 @@
             "socials": []
         },
         {
+            "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/bart.png",
+            "name": "Bart Baker",
+            "designation": "Marketing Advisor",
+            "description": "Bart Baker is the No.1 American influencer in all of China with over 40M followers worldwide and over 25 million followers in China across Douyin, Kuaishou, and Weibo. In the United States Bart also has over 16M followers with 10M on his YouTube alone.   Baker has been involved in the crypto space since 2018 and he helped Brave get over 1 million downloads of its web browser.   He also has contacts in media worldwide and is helping SavePlanetEarth reach widespread awareness.",
+            "socials": [
+                {
+                    "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/socials/twitter.png",
+                    "clickable": true,
+                    "redirectURL": "https://twitter.com/bartbaker"
+                }
+            ]
+        },
+        {
             "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/team/aaron.jpeg",
             "name": "Aaron Bernhardt",
             "designation": "Developer",
