@@ -12,7 +12,7 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 ## APIs
 
 #### [Token Info API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_token_info.json)
-- Details abot HODLs, Trees Planted and Tokens Burnt
+- Details about HODLs, Trees Planted and Tokens Burnt
 - Details about Tokenomics
 - Social Links
 - Donation Wallet/s along with description
@@ -28,8 +28,12 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 - List of Exchanges $SPE is listed on along with basic information
 - Featured Exchange
 
+#### [Swap Backgrounds API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_swap_background.json)
+- Different swap backgrounds with various configurations
+
 ## Changelog
 
+- Added Configurations for Swap Background
 - Added Configuration API for announcement and scheduled maintenance
 - Added Markets API for a list of Exchanges $SPE is listed on
 - Added donation wallets to the Token Info API
