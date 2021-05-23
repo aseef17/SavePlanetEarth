@@ -1,5 +1,5 @@
 {
-    "updated_on": "2021-05-21 10:44:32",
+    "updated_on": "2021-05-23 06:55:24",
     "background": [
         {
             "image": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/swap/swap-background-1.jpg",
@@ -10,6 +10,36 @@
             "swapBoxColor": "#748193",
             "swapBoxTextColor": "#EBF0FF",
             "swapBtnColor": "#42566F"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/swap/swap-background-2.jpg",
+            "imageBlur": "0",
+            "overlayColor": "#000000",
+            "overlayOpacity": "15",
+            "swapInfoColor": "#0B556D",
+            "swapBoxColor": "#598690",
+            "swapBoxTextColor": "#EBF0FF",
+            "swapBtnColor": "#0B6582"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/swap/swap-background-3.jpg",
+            "imageBlur": "0",
+            "overlayColor": "#000000",
+            "overlayOpacity": "30",
+            "swapInfoColor": "#115A44",
+            "swapBoxColor": "#779A8E",
+            "swapBoxTextColor": "#EBF0FF",
+            "swapBtnColor": "#19654E"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/swap/swap-background-4.jpg",
+            "imageBlur": "0",
+            "overlayColor": "#000000",
+            "overlayOpacity": "25",
+            "swapInfoColor": "#32500D",
+            "swapBoxColor": "#9CAFA2",
+            "swapBoxTextColor": "#EBF0FF",
+            "swapBtnColor": "#477212"
         }
     ]
 }
