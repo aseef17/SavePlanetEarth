@@ -31,8 +31,13 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 #### [Swap Backgrounds API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_swap_background.json)
 - Different swap backgrounds with various configurations
 
+#### [Road Map API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_roadmap.json)
+- Road Map for Save Planet Earth LTDs
+
 ## Changelog
 
+- Added Road Map API to track live Road Map of Save Planet Earth LTD
+- Updated Swap Background API to support `speTextColor` attribute
 - Added Configurations for Swap Background
 - Added Configuration API for announcement and scheduled maintenance
 - Added Markets API for a list of Exchanges $SPE is listed on

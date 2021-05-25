@@ -1,0 +1,103 @@
+{
+    "updated_on": "2021-05-25 07:56:50",
+    "roadmap_data": [
+        {
+            "title": "Phase 01",
+            "year": "2021",
+            "image": "rocket",
+            "content": [
+                {
+                    "heading": "Launch to BSC MainNet",
+                    "text": "Initial launch to BSC MainNet will take place on April 9th 2021.",
+                    "status": "Done"
+                },
+                {
+                    "heading": "Multiple Audits",
+                    "text": "Audits will be applied for & completed by several well-known auditing groups and individuals.",
+                    "status": "Done"
+                },
+                {
+                    "heading": "CoinGecko & CoinMarketCap",
+                    "text": "Multiple Listing services including but not limited to, CoinGecko & CoinMarketCap will be applied for.",
+                    "status": "Done"
+                }
+            ]
+        },
+        {
+            "title": "Phase 02",
+            "year": "2021",
+            "image": "phone",
+            "content": [
+                {
+                    "heading": "Release iOS and Android App",
+                    "text": "Launch of iOS and Android app enabling all to Save Planet Earth.",
+                    "status": "Beta"
+                },
+                {
+                    "heading": "Carbon Sequestration",
+                    "text": "Participate in planting trees, nurseries, recycling, municipal solid waste, treating plastics & tires, & many other climate combating projects.",
+                    "status": ""
+                },
+                {
+                    "heading": "Partnerships with Mystery Nation-States",
+                    "text": "Partnership with specific countries viz., Indonesia, Hawaii, Seychelles, Maldives, and even in African states such as Côte d'Ivoire, Senegal, Togo so on, and also including Alaska and some North American coastal-areas, to bring in lasting solutions to fight climate change, rising sea levels and other environmental perils.",
+                    "status": "Done"
+                },
+                {
+                    "heading": "HODL Rewards",
+                    "text": "Recycling/Energy from Waste, and carbon abatement revenues to be disbursed amongst holders!",
+                    "status": ""
+                },
+                {
+                    "heading": "Strategic Connections",
+                    "text": "Coordinate with crucial entities in the recycling industry involving use of metal and other components that can potential cause pollution; for example potential cadmium and heavy metal intoxication from metals so on need to be strategically planned out so that climate change solutions themselves un-thoughtfully instituted will not bear additional burdens in the fight against Global climate Change.",
+                    "status": "Done"
+                }
+            ]
+        },
+        {
+            "title": "Phase 03",
+            "year": "2021",
+            "image": "tree",
+            "content": [
+                {
+                    "heading": "Major Exchange Listing",
+                    "text": "Apply for multiple major centralized exchanges.",
+                    "status": "Done"
+                },
+                {
+                    "heading": "Minting of original NFTs",
+                    "text": "Commissioning known artists for pro-bono carbon neutral/negative NFT auctions supporting non-profits.",
+                    "status": ""
+                },
+                {
+                    "heading": "Widespread Global Adoption",
+                    "text": "Partner with non-profits, nation-states, & world-renowned entities that are active in averting waste pile-ups and combating climate change.",
+                    "status": ""
+                },
+                {
+                    "heading": "Offset Incentives",
+                    "text": "Companies & individuals can offset their carbon footprint by donating to plant trees and recieve a Carbon Neutral/Negative Virtual NFT certificate!",
+                    "status": ""
+                },
+                {
+                    "heading": "GPS Monitoring",
+                    "text": "See on a live map inside the SPE iOS or Android app where your trees have been planted along with all trees that have been planted by the community!",
+                    "status": ""
+                }
+            ]
+        },
+        {
+            "title": "Phase 04",
+            "year": "2022",
+            "image": "contact",
+            "content": [
+                {
+                    "heading": "Futures Trading",
+                    "text": "Futures trading mechanism implemented in the renewable energy sector to tackle waste, pollution, and use of resource materials that will inevitably give rise to unwelcome (new) pollution steams, for example solar cells at end of their services lives can easily give rise to the buildup of cadmium and other toxins in the soil, a process that has to be supported by a discerning futures trading.",
+                    "status": ""
+                }
+            ]
+        }
+    ]
+}
