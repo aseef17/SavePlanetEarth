@@ -1,5 +1,5 @@
 {
-    "updated_on": "2021-05-25 07:56:50",
+    "updated_on": "2021-05-26 10:49:20",
     "roadmap_data": [
         {
             "title": "Phase 01",
@@ -36,7 +36,7 @@
                 {
                     "heading": "Carbon Sequestration",
                     "text": "Participate in planting trees, nurseries, recycling, municipal solid waste, treating plastics & tires, & many other climate combating projects.",
-                    "status": ""
+                    "status": "InProgress"
                 },
                 {
                     "heading": "Partnerships with Mystery Nation-States",
@@ -73,7 +73,7 @@
                 {
                     "heading": "Widespread Global Adoption",
                     "text": "Partner with non-profits, nation-states, & world-renowned entities that are active in averting waste pile-ups and combating climate change.",
-                    "status": ""
+                    "status": "InProgress"
                 },
                 {
                     "heading": "Offset Incentives",
@@ -83,7 +83,7 @@
                 {
                     "heading": "GPS Monitoring",
                     "text": "See on a live map inside the SPE iOS or Android app where your trees have been planted along with all trees that have been planted by the community!",
-                    "status": ""
+                    "status": "InProgress"
                 }
             ]
         },
