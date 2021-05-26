@@ -1,18 +1,18 @@
 {
     "updated_on": "2021-05-21 20:30:40",
     "featured": {
-        "name": "WhiteBit",
-        "description": "A centralized cryptocurrency exchange trusted by 300K+ users from 190 countries. Trade Bitcoin, Ethereum, Tether, XRP, Litecoin, Cardano, and many other crypto assets.",
-        "redirectURL": "https://whitebit.com/trade/SPE_USDT"
+        "name": "BitMart",
+        "description": "A Premier Global Digital Assets Exchange, BitMart is a centralized exchange based in the Cayman Islands. It also has four offices located in New York, China, Hong Kong, and Seoul. It supports spot trading, OTC trading, and USD trading. Serving 180+ countries with more than 5,000,000 customers served, it reaches daily volumes of well over $1 billion and currently has 230+ coins/tokens available for trading.",
+        "redirectURL": "https://www.bitmart.com/trade/en?layout=basic&symbol=SPE_USDT"
     },
     "markets": [
         {
             "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/bitmart-dark.png",
             "imageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/bitmart.png",
             "name": "BitMart",
-            "redirectURL": "",
+            "redirectURL": "https://www.bitmart.com/trade/en?layout=basic&symbol=SPE_USDT",
             "tradePair": "USDT",
-            "listed": "TBA"
+            "listed": "05.25.2021"
         },
         {
             "darkimageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/markets/hotbit-dark.png",
