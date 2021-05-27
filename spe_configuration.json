@@ -5,15 +5,15 @@
         {
             "announcementType": "achievement",
             "announcementLabel": "SPE_100M_TREES_DEAL",
-            "announcementTitle": "🌲100,000,000 TREE-PLANTING INITIATIVE CONFIRMED🌲",
-            "announcementDescription": "SavePlanetEarth leads a revolutionary 100 MILLION tree-planting initiative in SRI LANKA.",
+            "announcementTitle": "🌲100,000,000 Tree-Planting Initiative Confirmeds🌲",
+            "announcementDescription": "SavePlanetEarth leads a revolutionary 100 MILLION tree-planting initiative in Sri Lanka.",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/100m-trees-announcement.png",
             "clickable": true,
             "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1394661579074031622"
         },
         {
             "announcementType": "achievement",
-            "announcementLabel": "SPE_75k_Holders",
+            "announcementLabel": "SPE_75k_HOLDERS",
             "announcementTitle": "Earthlings! We've reached yet another milestone. 🌏",
             "announcementDescription": "Congratulations on reaching 75,000 $SPE HOLDERS! 🌳 Join our mission! Save our planet.",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/75k-holders-announcement.jpeg",
@@ -22,7 +22,7 @@
         },
         {
             "announcementType": "achievement",
-            "announcementLabel": "SPE_70k_Holders",
+            "announcementLabel": "SPE_70k_HOLDERSs",
             "announcementTitle": "70k Holders in 34 days of launch",
             "announcementDescription": "$SPE just hit 70k holders in our first 34 days, thank you for bringing awareness to environmental issues!",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/70k-holders-announcement.jpeg",
