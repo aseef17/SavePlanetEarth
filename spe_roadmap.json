@@ -1,10 +1,11 @@
 {
-    "updated_on": "2021-05-26 10:49:20",
+    "updated_on": "2021-05-27 17:32:10",
     "roadmap_data": [
         {
             "title": "Phase 01",
             "year": "2021",
             "image": "rocket",
+            "lottieAssetPath": "assets/animations/roadmap-phase1-rocket.json",
             "content": [
                 {
                     "heading": "Launch to BSC MainNet",
@@ -27,6 +28,7 @@
             "title": "Phase 02",
             "year": "2021",
             "image": "phone",
+            "lottieAssetPath": "assets/animations/roadmap-phase2-phone.json",
             "content": [
                 {
                     "heading": "Release iOS and Android App",
@@ -59,6 +61,7 @@
             "title": "Phase 03",
             "year": "2021",
             "image": "tree",
+            "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
             "content": [
                 {
                     "heading": "Major Exchange Listing",
@@ -91,6 +94,7 @@
             "title": "Phase 04",
             "year": "2022",
             "image": "contact",
+            "lottieAssetPath": "assets/animations/roadmap-phase4-rocket.json",
             "content": [
                 {
                     "heading": "Futures Trading",
