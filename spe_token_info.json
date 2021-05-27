@@ -1,9 +1,9 @@
 {
-    "updated_on": "2021-05-25 07:56:50",
+    "updated_on": "2021-05-27 07:52:54",
     "token_data": [
         {
             "title": "Total Holders",
-            "value": 79144,
+            "value": 79360,
             "description": "Our valued Diamond hands number",
             "lottieAssetPath": "assets/animations/diamond-hands.json"
         },
