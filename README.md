@@ -21,8 +21,9 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 - Details about team members of SPE along with their socials (if present)
 
 #### [Configuration API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_configuration.json)
-- List of Announcements
 - Maintenance toggle
+- White Paper URL
+- List of Announcements
 
 #### [Markets API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_markets_info.json)
 - List of Exchanges $SPE is listed on along with basic information
@@ -36,6 +37,7 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 
 ## Changelog
 
+- Updated Configuration API to add the WhitePaper URL
 - Updated Road Map API with LottieAsset
 - Added Road Map API to track live Road Map of Save Planet Earth LTD
 - Updated Swap Background API to support `speTextColor` attribute
