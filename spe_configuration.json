@@ -3,6 +3,15 @@
     "whitePaperURL": "https://nbviewer.jupyter.org/github/aseef17/SavePlanetEarth/blob/main/assets/whitePaper.pdf",
     "announcements": [
         {
+            "announcementType": "news",
+            "announcementLabel": "SPE_COINTELEGRAPH_AMA",
+            "announcementTitle": "Imran Ali (Founder) │ 中文 CoinTelegraph Interview 📹",
+            "announcementDescription": "SavePlanetEarth leads a revolutionary 100 Million tree-planting initiative in Sri Lanka.",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/100m-trees-announcement.png",
+            "clickable": true,
+            "redirectURL": "https://www.youtube.com/watch?v=yG045o9LrV0"
+        },
+        {
             "announcementType": "achievement",
             "announcementLabel": "SPE_100M_TREES_DEAL",
             "announcementTitle": "100,000,000 Tree-Planting Initiative Confirmed 🌲",
