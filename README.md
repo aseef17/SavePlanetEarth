@@ -37,6 +37,7 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 
 ## Changelog
 
+- Updated Configuration API to add actionButtonTitle in Announcements
 - Updated Configuration API to add the WhitePaper URL
 - Updated Road Map API with LottieAsset
 - Added Road Map API to track live Road Map of Save Planet Earth LTD

@@ -9,7 +9,8 @@
             "announcementDescription": "Imran Ali's (Founder) interview hosted by Ting (Chief Editor at Cointelegraph China). Featuring: Celia Li (CMO of CoinTiger).",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/100m-trees-announcement.png",
             "clickable": true,
-            "redirectURL": "https://www.youtube.com/watch?v=yG045o9LrV0"
+            "redirectURL": "https://www.youtube.com/watch?v=yG045o9LrV0",
+            "actionButtonTitle": "View Interview"
         },
         {
             "announcementType": "achievement",
@@ -18,7 +19,8 @@
             "announcementDescription": "SavePlanetEarth leads a revolutionary 100 Million tree-planting initiative in Sri Lanka.",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/100m-trees-announcement.png",
             "clickable": true,
-            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1394661579074031622"
+            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1394661579074031622",
+            "actionButtonTitle": "Read More"
         },
         {
             "announcementType": "achievement",
@@ -27,7 +29,8 @@
             "announcementDescription": "Congratulations on reaching 75,000 $SPE HOLDERS! 🌳 Join our mission! Save our planet.",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/75k-holders-announcement.jpeg",
             "clickable": true,
-            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1394534649767071750"
+            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1394534649767071750",
+            "actionButtonTitle": "Read More"
         },
         {
             "announcementType": "achievement",
@@ -36,7 +39,8 @@
             "announcementDescription": "$SPE just hit 70,000 holders in our first 34 days, thank you for bringing awareness to environmental issues!",
             "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/70k-holders-announcement.jpeg",
             "clickable": true,
-            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1392975406643429376"
+            "redirectURL": "https://twitter.com/SPE_Token_BSC/status/1392975406643429376",
+            "actionButtonTitle": "Read More"
         }
     ]
 }
