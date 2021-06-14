@@ -1,5 +1,5 @@
 {
-    "updated_on": "2021-05-30 11:28:54",
+    "updated_on": "2021-06-14 17:41:13",
     "roadmap_data": [
         {
             "title": "Phase 01",
@@ -8,18 +8,33 @@
             "lottieAssetPath": "assets/animations/roadmap-phase1-rocket.json",
             "content": [
                 {
+                    "heading": "DxSale Presale",
+                    "text": "DxSale fair presale took place with 125BNB hard cap and 1BNB maximum buy in.",
+                    "status": "Done"
+                },
+                {
                     "heading": "Launch to BSC MainNet",
                     "text": "Initial launch to BSC MainNet will take place on April 9th 2021.",
                     "status": "Done"
                 },
                 {
+                    "heading": "Renouncement of Ownership of the Smart Contract",
+                    "text": "Ownership of the smart contract will be renounced, in turn making it so modifications are unable to be made and 100% safe.",
+                    "status": "Done"
+                },
+                {
                     "heading": "Multiple Audits",
-                    "text": "Audits will be applied for & completed by several well-known auditing groups and individuals.",
+                    "text": "Liquidity will be locked until April 9th 2026 via DxSale, making the token rug-pull free and safe.",
                     "status": "Done"
                 },
                 {
                     "heading": "CoinGecko & CoinMarketCap",
                     "text": "Multiple Listing services including but not limited to, CoinGecko & CoinMarketCap will be applied for.",
+                    "status": "Done"
+                },
+                {
+                    "heading": "Exchange Applications",
+                    "text": "Multiple exchanges will be applied for including but not limited to WhiteBIT and BitMart.",
                     "status": "Done"
                 }
             ]
@@ -31,29 +46,29 @@
             "lottieAssetPath": "assets/animations/roadmap-phase2-phone.json",
             "content": [
                 {
-                    "heading": "Release iOS and Android App",
-                    "text": "Launch of iOS and Android app enabling all to Save Planet Earth.",
-                    "status": "Done"
+                    "heading": "Development/Release of v1 SavePlanetEarth Android/iOS App",
+                    "text": "Development and launch of the first version iOS and Android app with a variety of initial basic features and ongoing updates.",
+                    "status": "InProgress"
+                },
+                {
+                    "heading": "Development of revolutionary v2 SavePlanetEarth Android/iOS App",
+                    "text": "The development of v2 of the SavePlanetEarth app will continue until it's launch in early Q3. The app will have many revolutionary features mainly regarding reforestation and carbon sequestration/credits.",
+                    "status": "InProgress"
                 },
                 {
                     "heading": "Carbon Sequestration",
-                    "text": "Participate in planting trees, nurseries, recycling, municipal solid waste, treating plastics & tires, & many other climate combating projects.",
+                    "text": "Participate in planting trees, nurseries, and recycling around the world. 1,001,000 trees in the Maldives. 100,011,000. Recycling plastics from ocean/beach clean-up in the Maldives (SOON)",
                     "status": "InProgress"
                 },
                 {
-                    "heading": "Partnerships with Mystery Nation-States",
-                    "text": "Partnership with specific countries viz., Indonesia, Hawaii, Seychelles, Maldives, and even in African states such as Côte d'Ivoire, Senegal, Togo so on, and also including Alaska and some North American coastal-areas, to bring in lasting solutions to fight climate change, rising sea levels and other environmental perils.",
+                    "heading": "Partnerships with Nation-States",
+                    "text": "Partnerships with specific countries and their governments, and various NGOs to bring in lasting solutions to fight climate change, rising sea levels, and other environmental perils. Sri Lanka – 100,000,000 Tree initiative ✅. Sri Lanka State Plantations Corporation ✅, JEDB ✅, Kotagala Plantations PLC✅, Maturata Plantations✅. Forestry Department, Sri Lanka Military Central Environment Authority ✅. UNDP Sri Lanka✅. Maldives – 1,000,000 Tree initiative✅. HDC Maldives ✅, MITDC Maldives ✅. Save The Beach, Advocating Rights for Children (ARC) ✅. (Ongoing discussions with other nations and NGOs)",
                     "status": "InProgress"
                 },
                 {
-                    "heading": "HODL Rewards",
-                    "text": "Recycling/Energy from Waste, and carbon abatement revenues to be disbursed amongst holders!",
-                    "status": ""
-                },
-                {
-                    "heading": "Strategic Connections",
-                    "text": "Coordinate with crucial entities in the recycling industry involving use of metal and other components that can potential cause pollution; for example potential cadmium and heavy metal intoxication from metals so on need to be strategically planned out so that climate change solutions themselves un-thoughtfully instituted will not bear additional burdens in the fight against Global climate Change.",
-                    "status": "Done"
+                    "heading": "SavePlanetEarth Merch",
+                    "text": "$SPE merch will be available late Q2 with a store on the website, the community will be able to buy a variety of articles with $SPE tokens or another cryptocurrency. Plastics recovered from beach/ocean cleaning activities will be used for the merchandise, from which the profits will be reinvested into the project. ",
+                    "status": "InProgress"
                 }
             ]
         },
@@ -64,29 +79,34 @@
             "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
             "content": [
                 {
-                    "heading": "Major Exchange Listing",
-                    "text": "Apply for multiple major centralized exchanges.",
-                    "status": "Done"
-                },
-                {
-                    "heading": "Minting of original NFTs",
-                    "text": "Commissioning known artists for pro-bono carbon neutral/negative NFT auctions supporting non-profits.",
+                    "heading": "Tier 1 Exchange Applications",
+                    "text": "Now that SavePlanetEarth will be more established in Q2, multiple Tier 1 Exchanges will be applied to including but not limited to: Gate.io, Huobi, Kucoin, Binance, Coinbase",
                     "status": ""
                 },
                 {
-                    "heading": "Widespread Global Adoption",
-                    "text": "Partner with non-profits, nation-states, & world-renowned entities that are active in averting waste pile-ups and combating climate change.",
+                    "heading": "Launch of Revolutionary v2 SavePlanetEarth Android/iOS App",
+                    "text": "In early Q3, SavePlanetEarth plans to launch the next version of the $SPE Android/iOS app. All of the features from the v1 app will be included plus a wide array of new and revolutionary aspects of which the world has never seen, mainly regarding extremely detailed reforestation metrics and carbon sequestration/credits calculations and certifications.",
+                    "status": ""
+                },
+                {
+                    "heading": "Carbon Credit Certification",
+                    "text": "SavePlanetEarth will apply to several carbon credit certification bodies to register $SPE to be able to be utilized as carbon credits. $SPE could then be used to offset corporate carbon footprints. This is an ever-growing market that will be worth trillions of dollars in the near future.",
                     "status": "InProgress"
                 },
                 {
                     "heading": "Offset Incentives",
-                    "text": "Companies & individuals can offset their carbon footprint by donating to plant trees and recieve a Carbon Neutral/Negative Virtual NFT certificate!",
+                    "text": "After certification, another way companies & individuals will be able to offset their carbon footprint is by donating to plant trees and receiving a Carbon Neutral/Negative Virtual NFT certificate. NFTs will be minted on a carbon neutral/negative blockchain TBA in Q3 as technology is rapidly evolving",
                     "status": ""
                 },
                 {
-                    "heading": "GPS Monitoring",
-                    "text": "See on a live map inside the SPE iOS or Android app where your trees have been planted along with all trees that have been planted by the community!",
-                    "status": "InProgress"
+                    "heading": "Minting of original NFTs",
+                    "text": "Commissioning known artists for pro bono NFT auctions in which profits will be reinvested into the carbon sequestering aspect of our project. NFTs will be minted on a carbon neutral/negative blockchain TBA in Q3 as technology is rapidly evolving",
+                    "status": ""
+                },
+                {
+                    "heading": "Continued Carbon Sequestration and Ever-Expanding Partnerships with Nation-States",
+                    "text": "Continued participation in planting trees, nurseries, and recycling around the world. Many more countries and NGOs will be added to a growing list and we will continue making a dent in climate change together.",
+                    "status": ""
                 }
             ]
         },
@@ -97,8 +117,28 @@
             "lottieAssetPath": "assets/animations/roadmap-phase4-contact.json",
             "content": [
                 {
-                    "heading": "Futures Trading",
-                    "text": "Futures trading mechanism implemented in the renewable energy sector to tackle waste, pollution, and use of resource materials that will inevitably give rise to unwelcome (new) pollution steams, for example solar cells at end of their services lives can easily give rise to the buildup of cadmium and other toxins in the soil, a process that has to be supported by a discerning futures trading.",
+                    "heading": "Strategic Connections",
+                    "text": "Coordinate with crucial entities in the recycling industry involving use of metal, plastics, municipal solid waste, and other components that can potentially cause pollution. For example, potential cadmium and heavy metal intoxication from metals and so on need to be strategically planned out so that climate change solutions themselves un-thoughtfully instituted will not bear additional burdens in the fight against Global Climate Change",
+                    "status": ""
+                },
+                {
+                    "heading": "Global Adoption",
+                    "text": "Widespread partnerships with nonprofits, nation-states, & world-renowned entities that are active in averting waste pileups and combating climate change.",
+                    "status": ""
+                },
+                {
+                    "heading": "Future Trading Mechanisms",
+                    "text": "Innovative technology implemented in the renewable energy sector to tackle waste, pollution, and use of resource materials will inevitably give rise to unwelcome (new) pollution streams. For example, solar cells at the end of their lifecycle can easily give rise to the build-up of metal poison and other toxins in the soil. These new pollution streams will give birth to a new era of clean-up processes and legislation in which SavePlanetEarth will be at the forefront of, creating opportunities with future trading mechanisms. (Further details to follow).",
+                    "status": ""
+                },
+                {
+                    "heading": "More Tier 1 Exchange Listings",
+                    "text": "Applications and listings to tier 1 exchanges will be an ongoing process.",
+                    "status": ""
+                },
+                {
+                    "heading": "Carbon Exchanges",
+                    "text": "As we become certified, we will also be able to apply to and list on Carbon Credit Exchanges, in turn exchanging our carbon credits for funding which will be reinvested into sequestering more and more carbon, thus creating a sustainable model for fighting global climate change and helping to Save Planet Earth.",
                     "status": ""
                 }
             ]
