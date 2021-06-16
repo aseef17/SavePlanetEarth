@@ -1,5 +1,5 @@
 {
-    "updated_on": "2021-06-14 17:41:13",
+    "updated_on": "2021-06-16 10:38:34",
     "roadmap_data": [
         {
             "title": "Phase 01",
@@ -14,7 +14,12 @@
                 },
                 {
                     "heading": "Launch to BSC MainNet",
-                    "text": "Initial launch to BSC MainNet will take place on April 9th 2021.",
+                    "text": "Initial fair launch to BSC MainNet took place on April 9th, 2021.",
+                    "status": "Done"
+                },
+                {
+                    "heading": "Liquidity Lock",
+                    "text": "Liquidity will be locked until April 9th 2026 via DxSale, making the token rug-pull free and safe.",
                     "status": "Done"
                 },
                 {
@@ -24,12 +29,12 @@
                 },
                 {
                     "heading": "Multiple Audits",
-                    "text": "Liquidity will be locked until April 9th 2026 via DxSale, making the token rug-pull free and safe.",
+                    "text": "Smart Contract Audits will be applied for & completed by several auditing groups, while in the waiting list for our industry leading Certik Audit.",
                     "status": "Done"
                 },
                 {
                     "heading": "CoinGecko & CoinMarketCap",
-                    "text": "Multiple Listing services including but not limited to, CoinGecko & CoinMarketCap will be applied for.",
+                    "text": "Multiple listing services including but not limited to: CoinGecko & CoinMarketCap will be applied for.",
                     "status": "Done"
                 },
                 {
@@ -57,17 +62,27 @@
                 },
                 {
                     "heading": "Carbon Sequestration",
-                    "text": "Participate in planting trees, nurseries, and recycling around the world. 1,001,000 trees in the Maldives. 100,011,000. Recycling plastics from ocean/beach clean-up in the Maldives (SOON)",
+                    "text": "Participate in planting trees, nurseries, and recycling around the world.\n1,001,000 trees in the Maldives ✅\n100,011,000 trees in Sri Lanka ✅\nRecycling plastics from ocean/beach clean-up in the Maldives (SOON)",
                     "status": "InProgress"
                 },
                 {
                     "heading": "Partnerships with Nation-States",
-                    "text": "Partnerships with specific countries and their governments, and various NGOs to bring in lasting solutions to fight climate change, rising sea levels, and other environmental perils. Sri Lanka – 100,000,000 Tree initiative ✅. Sri Lanka State Plantations Corporation ✅, JEDB ✅, Kotagala Plantations PLC✅, Maturata Plantations✅. Forestry Department, Sri Lanka Military Central Environment Authority ✅. UNDP Sri Lanka✅. Maldives – 1,000,000 Tree initiative✅. HDC Maldives ✅, MITDC Maldives ✅. Save The Beach, Advocating Rights for Children (ARC) ✅. (Ongoing discussions with other nations and NGOs)",
+                    "text": "Partnerships with specific countries and their governments, and various NGOs to bring in lasting solutions to fight climate change, rising sea levels, and other environmental perils.\nSri Lanka – 100,000,000 Tree initiative ✅\nSri Lanka State Plantations Corporation ✅, JEDB ✅, Kotagala Plantations PLC✅, Maturata Plantations✅\nForestry Department, Sri Lanka Military\nCentral Environment Authority ✅\nUNDP Sri Lanka✅\nMaldives – 1,000,000 Tree initiative✅\nHDC Maldives ✅, MITDC Maldives ✅\nSave The Beach, Advocating Rights for Children (ARC) ✅\n(Ongoing discussions with other nations and NGOs)",
                     "status": "InProgress"
                 },
                 {
                     "heading": "SavePlanetEarth Merch",
                     "text": "$SPE merch will be available late Q2 with a store on the website, the community will be able to buy a variety of articles with $SPE tokens or another cryptocurrency. Plastics recovered from beach/ocean cleaning activities will be used for the merchandise, from which the profits will be reinvested into the project. ",
+                    "status": "InProgress"
+                },
+                {
+                    "heading": "Exchange Listings",
+                    "text": "SavePlanetEarth will list on several exchanges in Q2\nBitmart ✅ - WhiteBIT ✅ - CoinTiger ✅ - Hotbit ✅\nIn talks with other exchange",
+                    "status": "InProgress"
+                },
+                {
+                    "heading": "Tier 1 Exchange Applications",
+                    "text": "Now that SavePlanetEarth will be more established in Q2, multiple Tier 1 Exchanges will be applied to including but not limited to: Gate.io, Huobi, Kucoin, Binance, Coinbase",
                     "status": "InProgress"
                 }
             ]
@@ -79,13 +94,13 @@
             "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
             "content": [
                 {
-                    "heading": "Tier 1 Exchange Applications",
-                    "text": "Now that SavePlanetEarth will be more established in Q2, multiple Tier 1 Exchanges will be applied to including but not limited to: Gate.io, Huobi, Kucoin, Binance, Coinbase",
+                    "heading": "Launch of Revolutionary v2 SavePlanetEarth Android/iOS App",
+                    "text": "In early Q3, SavePlanetEarth plans to launch the next version of the $SPE Android/iOS app. All of the features from the v1 app will be included plus a wide array of new and revolutionary aspects of which the world has never seen, mainly regarding extremely detailed reforestation metrics and carbon sequestration/credits calculations and certifications.",
                     "status": ""
                 },
                 {
-                    "heading": "Launch of Revolutionary v2 SavePlanetEarth Android/iOS App",
-                    "text": "In early Q3, SavePlanetEarth plans to launch the next version of the $SPE Android/iOS app. All of the features from the v1 app will be included plus a wide array of new and revolutionary aspects of which the world has never seen, mainly regarding extremely detailed reforestation metrics and carbon sequestration/credits calculations and certifications.",
+                    "heading": "Tier 1 Exchange Listings",
+                    "text": "SavePlanetEarth will list on multiple tier 1 exchanges.",
                     "status": ""
                 },
                 {
