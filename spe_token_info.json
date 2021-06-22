@@ -14,6 +14,13 @@
             "lottieAssetPath": "assets/animations/trees-planted.json"
         }
     ],
+    "cciData": {
+        "treesPlanted": 15300,
+        "circulatingSupply": 456450751946954,
+        "1Week": 0,
+        "2Week": 0,
+        "1Month": 15300
+    },
     "tokenomics": [
         {
             "title": "Total Supply",
