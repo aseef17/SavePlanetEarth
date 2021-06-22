@@ -12,6 +12,12 @@
             "value": 15300,
             "description": "Total amount of trees SPE has planted",
             "lottieAssetPath": "assets/animations/trees-planted.json"
+        },
+        {
+            "title": "Tokens Burnt",
+            "value": 407171052317891,
+            "description": "Total amount of SPE permanently burned",
+            "lottieAssetPath": "assets/animations/tokens-burnt.json"
         }
     ],
     "cciData": {
