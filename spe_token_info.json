@@ -108,7 +108,7 @@
     "donationsWallets": [
         {
             "address": "0x51E6d08721401f2ec874C996fcE0f1bCBF9317c9",
-            "description": "We're not a charity token, but we accept donations towards the work we're doing to develop the project and help preserve the environment. This is the official SavePlanetEarth ERC20/BEP20 address for crypto donations, all forms of crypto are accepted.",
+            "description": "We're not a charity token, but we accept donations towards the work we're doing to develop the project and help preserve the environment. This is the official SavePlanetEarth ERC20/BEP20 address for crypto donations, all forms of crypto (ERC20/BEP20 ONLY) are accepted.",
             "enabled": true
         }
     ]
