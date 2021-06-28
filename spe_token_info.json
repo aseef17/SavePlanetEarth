@@ -3,14 +3,14 @@
     "token_data": [
         {
             "title": "Total Holders",
-            "value": 81913,
+            "value": 82062,
             "description": "Our valued Diamond hands number",
             "lottieAssetPath": "assets/animations/diamond-hands.json"
         },
         {
-            "title": "Trees Planted",
-            "value": 15300,
-            "description": "Total amount of trees SPE has planted",
+            "title": "Trees Contracted",
+            "value": 101000000,
+            "description": "Total amount of trees SPE has contracted to plant",
             "lottieAssetPath": "assets/animations/trees-planted.json"
         },
         {
