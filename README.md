@@ -35,8 +35,12 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 #### [Road Map API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_roadmap.json)
 - Road Map for Save Planet Earth LTD
 
+#### [Language List API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/languages/spe_languages.json)
+- List of all available language translations for SPE Website and Mobile Application
+
 ## Changelog
 
+- Added Language List API
 - Updated Configuration API to add actionButtonTitle in Announcements
 - Updated Configuration API to add the WhitePaper URL
 - Updated Road Map API with LottieAsset

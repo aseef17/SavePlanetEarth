@@ -1,0 +1,16 @@
+{
+    "languages": [
+        {
+            "label": "English",
+            "iso": "en",
+            "emoji": "🇬🇧",
+            "APIURL": "https://saveplanetearth.io/translations/en/common.json"
+        },
+        {
+            "label": "German",
+            "iso": "de",
+            "emoji": "🇩🇪",
+            "APIURL": "https://saveplanetearth.io/translations/en/common.json"
+        }
+    ]
+}
