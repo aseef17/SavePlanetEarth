@@ -40,7 +40,10 @@ This repository contains a rudimentary API for SavePlanetEarth. Which will be co
 
 ## Changelog
 
+- Updated Team API to add new members - Carbon Consulting Company, Mohan Munasinghe and Sanith de Silva Wijeyeratne
+- Compressed Socials, Team and Market Images
 - Added Language List API
+- Added different Langugage files
 - Updated Configuration API to add actionButtonTitle in Announcements
 - Updated Configuration API to add the WhitePaper URL
 - Updated Road Map API with LottieAsset

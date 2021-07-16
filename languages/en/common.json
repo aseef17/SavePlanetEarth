@@ -1,0 +1,400 @@
+{
+    "welcome": "The official home of $SPE",
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "documents": "Documents",
+        "whitepaper": "Whitepaper",
+        "certik": "Certik Audit",
+        "techrate": "TechRate Audit",
+        "roadmap": "Roadmap",
+        "tokenomics": "Tokenomics",
+        "markets": "Markets",
+        "team": "Our Team",
+        "contact": "Contact Us",
+        "blog": "Blog",
+        "metamask": "Add to MetaMask",
+        "buy": "Buy Now",
+        "metamaskError": "There was a problem adding the token",
+        "metamaskChainError": "Switch to Smart Chain Network",
+        "metamaskSuccess": "Successfully added $SPE to your MetaMask"
+    },
+    "hero": {
+        "description": "A Carbon Sequestration Crypto Project",
+        "charts": "Charts",
+        "contractCopy": "Contract Address copied Successfully"
+    },
+    "introduction": {
+        "title": "Save Planet Earth Crypto Token",
+        "description": "Through strategic partnerships, academic backing, and a strong budding crypto currency community, we have bundled ingredients to significantly change the earth’s landscape through carbon sequestration in coordination with international aid organizations and the public alike. Our overall goals include developing an enhanced green (tree cover) and better marine management, and lobbying for more meaningful legal controls and achieve commercial market maturity to wake up and face real costs of climate change.",
+        "buyInstructions": "View how to buy instruction"
+    },
+    "tokenData": {
+        "holdersTitle": "Total Holders",
+        "holdersDescription": "Our valued Diamond hands number",
+        "treesTitle": "Trees Contracted",
+        "treesDescription": "Total amount of trees SPE has contracted to plant",
+        "burntTokensTitle": "Tokens Burnt",
+        "burntTokensDescription": "Total amount of SPE permanently burned"
+    },
+    "cciIndex": {
+        "title": "CCI Index",
+        "explanation": "By using tonnes sequestered equivalent (15,300 Trees planted and monitored as of today and affiliating 1 tCO₂e for each tree average), we are able to calculate the CCI value.\nCCI of $SPE = How much carbon we have sequestered divided by SPE tokens in circulation.",
+        "description": "The above model takes advantage of a compounding effect. As we sequester carbon, we have more credits to be sold, from which the proceeds go to sequestering additional carbon and in turn producing more carbon credits creating a positive compounding effect."
+    },
+    "globalWarmingIndex": {
+        "title": "Global Warming Index",
+        "asOf": "As of",
+        "description": "This number shows an up-to-the-second assessment of human-induced global warming since the second half of the 19th century. In the 2015 Paris Agreement countries around the world agreed to work towards keeping global warming below 2 degrees – and ideally at 1.5 degrees – in order to avoid the worst impacts of climate change.",
+        "source": "Source"
+    },
+    "whitePaperSection": {
+        "description1": "Interested to find out more about Save Planet Earth?",
+        "description2": "Everything you need to know is written in our White Paper.",
+        "download": "Download White Paper"
+    },
+    "roadmap": {
+        "title": "Road Map",
+        "roadmapData": [
+            {
+                "title": "Phase 01",
+                "year": "2021",
+                "image": "rocket",
+                "lottieAssetPath": "assets/animations/roadmap-phase1-rocket.json",
+                "content": [
+                    {
+                        "heading": "DxSale Presale",
+                        "text": "DxSale fair presale took place with 125BNB hard cap and 1BNB maximum buy in.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Launch to BSC MainNet",
+                        "text": "Initial fair launch to BSC MainNet took place on April 9th, 2021.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Liquidity Lock",
+                        "text": "Liquidity will be locked until April 9th 2026 via DxSale, making the token rug-pull free and safe.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Renouncement of Ownership of the Smart Contract",
+                        "text": "Ownership of the smart contract will be renounced, in turn making it so modifications are unable to be made and 100% safe.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Multiple Audits",
+                        "text": "Smart Contract Audits will be applied for & completed by several auditing groups, while in the waiting list for our industry leading Certik Audit.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "CoinGecko & CoinMarketCap",
+                        "text": "Multiple listing services including but not limited to: CoinGecko & CoinMarketCap will be applied for.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Exchange Applications",
+                        "text": "Multiple exchanges will be applied for including but not limited to WhiteBIT and BitMart.",
+                        "status": "Done"
+                    }
+                ]
+            },
+            {
+                "title": "Phase 02",
+                "year": "2021",
+                "image": "phone",
+                "lottieAssetPath": "assets/animations/roadmap-phase2-phone.json",
+                "content": [
+                    {
+                        "heading": "Development/Release of v1 SavePlanetEarth Android/iOS App",
+                        "text": "Development and launch of the first version iOS and Android app with a variety of initial basic features and ongoing updates.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Development of revolutionary v2 SavePlanetEarth Android/iOS App",
+                        "text": "The development of v2 of the SavePlanetEarth app will continue until it's launch in early Q3. The app will have many revolutionary features mainly regarding reforestation and carbon sequestration/credits.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Carbon Sequestration",
+                        "text": "Participate in planting trees, nurseries, and recycling around the world.\nRecycling plastics from ocean/beach clean-up in the Maldives (SOON)",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Partnerships with Nation-States",
+                        "text": "Partnerships with specific countries and their governments, and various NGOs to bring in lasting solutions to fight climate change, rising sea levels, and other environmental perils.\nSri Lanka – 100,000,000 Tree initiative \nSri Lanka State Plantations Corporation , JEDB , Kotagala Plantations PLC, Maturata Plantations\nForestry Department, Sri Lanka Military\nCentral Environment Authority \nUNDP Sri Lanka\nMaldives – 1,000,000 Tree initiative\nHDC Maldives , MITDC Maldives \nSave The Beach, Advocating Rights for Children (ARC) \n(Ongoing discussions with other nations and NGOs)",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "SavePlanetEarth Merch",
+                        "text": "$SPE merch will be available late Q2 with a store on the website, the community will be able to buy a variety of articles with $SPE tokens or another cryptocurrency. Plastics recovered from beach/ocean cleaning activities will be used for the merchandise, from which the profits will be reinvested into the project. ",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Exchange Listings",
+                        "text": "SavePlanetEarth will list on several exchanges in Q2\nBitmart  - WhiteBIT  - CoinTiger  - Hotbit \nIn talks with other exchange",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Tier 1 Exchange Applications",
+                        "text": "Now that SavePlanetEarth will be more established in Q2, multiple Tier 1 Exchanges will be applied to including but not limited to: Gate.io, Huobi, Kucoin, Binance, Coinbase",
+                        "status": "InProgress"
+                    }
+                ]
+            },
+            {
+                "title": "Phase 03",
+                "year": "2021",
+                "image": "tree",
+                "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
+                "content": [
+                    {
+                        "heading": "Launch of Revolutionary v2 SavePlanetEarth Android/iOS App",
+                        "text": "In early Q3, SavePlanetEarth plans to launch the next version of the $SPE Android/iOS app. All of the features from the v1 app will be included plus a wide array of new and revolutionary aspects of which the world has never seen, mainly regarding extremely detailed reforestation metrics and carbon sequestration/credits calculations and certifications.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Tier 1 Exchange Listings",
+                        "text": "SavePlanetEarth will list on multiple tier 1 exchanges.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Carbon Credit Certification",
+                        "text": "SavePlanetEarth will apply to several carbon credit certification bodies to register $SPE to be able to be utilized as carbon credits. $SPE could then be used to offset corporate carbon footprints. This is an ever-growing market that will be worth trillions of dollars in the near future.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Offset Incentives",
+                        "text": "After certification, another way companies & individuals will be able to offset their carbon footprint is by donating to plant trees and receiving a Carbon Neutral/Negative Virtual NFT certificate. NFTs will be minted on a carbon neutral/negative blockchain TBA in Q3 as technology is rapidly evolving",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Minting of original NFTs",
+                        "text": "Commissioning known artists for pro bono NFT auctions in which profits will be reinvested into the carbon sequestering aspect of our project. NFTs will be minted on a carbon neutral/negative blockchain TBA in Q3 as technology is rapidly evolving",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Continued Carbon Sequestration and Ever-Expanding Partnerships with Nation-States",
+                        "text": "Continued participation in planting trees, nurseries, and recycling around the world. Many more countries and NGOs will be added to a growing list and we will continue making a dent in climate change together.",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "title": "Phase 04",
+                "year": "2022",
+                "image": "contact",
+                "lottieAssetPath": "assets/animations/roadmap-phase4-contact.json",
+                "content": [
+                    {
+                        "heading": "Strategic Connections",
+                        "text": "Coordinate with crucial entities in the recycling industry involving use of metal, plastics, municipal solid waste, and other components that can potentially cause pollution. For example, potential cadmium and heavy metal intoxication from metals and so on need to be strategically planned out so that climate change solutions themselves un-thoughtfully instituted will not bear additional burdens in the fight against Global Climate Change",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Global Adoption",
+                        "text": "Widespread partnerships with nonprofits, nation-states, & world-renowned entities that are active in averting waste pileups and combating climate change.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Future Trading Mechanisms",
+                        "text": "Innovative technology implemented in the renewable energy sector to tackle waste, pollution, and use of resource materials will inevitably give rise to unwelcome (new) pollution streams. For example, solar cells at the end of their lifecycle can easily give rise to the build-up of metal poison and other toxins in the soil. These new pollution streams will give birth to a new era of clean-up processes and legislation in which SavePlanetEarth will be at the forefront of, creating opportunities with future trading mechanisms. (Further details to follow).",
+                        "status": ""
+                    },
+                    {
+                        "heading": "More Tier 1 Exchange Listings",
+                        "text": "Applications and listings to tier 1 exchanges will be an ongoing process.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Carbon Exchanges",
+                        "text": "As we become certified, we will also be able to apply to and list on Carbon Credit Exchanges, in turn exchanging our carbon credits for funding which will be reinvested into sequestering more and more carbon, thus creating a sustainable model for fighting global climate change and helping to Save Planet Earth.",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "roadmapEndText": "And beyond..."
+    },
+    "tokenomics": {
+        "title": "Basic Tokenomics",
+        "hint": "Press the tabs to reveal Tokenomics",
+        "totalSupplyTitle": "Total Supply",
+        "totalSupplyDescription": "The total amount of tokens created",
+        "burntTokensTitle": "Tokens Burnt",
+        "burntTokensDescription": "Total amount of SPE permanently burned",
+        "preSaleTitle": "Pre Sale",
+        "preSaleDescription": "Tokens not sold were burnt",
+        "pcsLPTitle": "PCS LP",
+        "pcsLPDescription": "Pancake Swap Listing Pool",
+        "rewardsTitle": "Rewards",
+        "rewardsDescription": "We reward our holders! 2% of each transaction goes instantly to the SPE holders, proportional to their holdings."
+    },
+    "team": {
+        "title": "Core Team",
+        "description": "Moving forward with a fully doxxed team is high priority for us. We want holders and community to feel confident in their investments and hope to provide as much transparency as possible!",
+        "members": [
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/imran.jpeg",
+                "name": "Imran Ali",
+                "designation": "Founder",
+                "description": "A qualified Prince II Practitioner who has minimum 10 years’ experience in a senior management role with both external audit and in-house financial management experience gained in high-growth organisations including Citibank, National Health Service and UK and foreign government institutions.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/imran-ali-179987158",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/priyantha.jpeg",
+                "name": "Dr. Priyantha Wijesooriya",
+                "designation": "Team Member",
+                "description": "Dr.Priyantha Wijesooriya is a US and Sri Lanka trained energy engineer (BSc and MS in Energy Engineering, PhD in Resource Economics & Inter-generational Equities). He is a Rotary Foundation Scholar to the University of Massachusetts and has been pioneering Renewable Energy Projects and Sustainable Development for years.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/dr-priyantha-wijesooriya-091a3416",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/salih.jpeg",
+                "name": "Sajid Salih",
+                "designation": "Product Manager",
+                "description": "Having past experience in corporate finance, project management, eCommerce and mobile platforms with startups since 2016.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/thatsalih",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/rahula.jpeg",
+                "name": "Prof. Rahula Attallage",
+                "designation": "Technical Advisor",
+                "description": "Prof. Rahula Attallage holds a PhD in Energy Engineering from Ecole Nationale Superieure des Mines de Paris, France. He has worked as a Senior Professor in Mechanical Engineering in the Dept. of Mechanical Engineering, University of Moratuwa. Prof. Attalage has been awarded the Outstanding Research Award and Presidential Awards for Scientific Publications multiple times. His latest achievement is an Honorary Distinction of 'Order of the Academic Palms' award by the Government of France.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/rahula-attalage-b8288517",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/iftikhar.jpeg",
+                "name": "Iftikhar Bokhari",
+                "designation": "Technical Advisor",
+                "description": "Over 25 years of experience in project management and a recognized track record of delivering multi million pound contracts for urban regeneration and project engineering within the UK. Specializing in energy from waste systems, integration of renewable technologies for domestic and commercial applications, research and strategic planning.",
+                "socials": []
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/graham.jpeg",
+                "name": "Graham Walwyn",
+                "designation": "Technical Advisor",
+                "description": "Senior Project Engineer - specializing in electrical design, costing and procurement. Worked on a range of multi million pound developments which range from medical, commercial and domestic systems. Also specializing in the design,installation and maintenance of renewable energy technology.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/graham-walwyn-ceng-84963830",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/waqar.jpeg",
+                "name": "Prof. Waqar Ahmed",
+                "designation": "Technical Advisor",
+                "description": "Over 30 years of industrial and academic experience in engineering and science. Leads the Experimental Nano physics Group focusing on Renewable Energy Technology and Sustainability. Accredited with over 500 publications on a range of engineering and science journals and has worked across many projects throughout Europe, Middle East, USA and Asia.",
+                "socials": []
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/bart.png",
+                "name": "Bart Baker",
+                "designation": "Marketing Advisor",
+                "description": "Bart Baker is the No.1 American influencer in all of China with over 40M followers worldwide and over 25 million followers in China across Douyin, Kuaishou, and Weibo. In the United States Bart also has over 16M followers with 10M on his YouTube alone.   Baker has been involved in the crypto space since 2018 and he helped Brave get over 1 million downloads of its web browser.   He also has contacts in media worldwide and is helping SavePlanetEarth reach widespread awareness.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/twitter.png",
+                        "clickable": true,
+                        "redirectURL": "https://twitter.com/bartbaker",
+                        "socialName": "Twitter"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/aaron.jpeg",
+                "name": "Aaron Bernhardt",
+                "designation": "Developer",
+                "description": "Full-stack engineer with experience in JavaScript - jQuery, bootstrap, and Infragistics, HTML, C#/ASP.NET - MVC architecture, LINQ library, building models, controllers, and views using the above languages; Dependency Injection, Entity Framework SQL (T-SQL). Python.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/aaron-bernhardt-143893b9",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            }
+        ]
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "questions": [
+            {
+                "question": "How does SavePlanetEarth plan to combat the climate crisis?",
+                "answer": "With strategic coordination via nation-states such as Sri Lanka, Maldives, UK, and others worldwide, alongside using donations indefinitely to fund the efforts, we plan to launch a massive initiative to help with carbon sequestration."
+            },
+            {
+                "question": "How does the sponsorship program and fund mechanism of SavePlanetEarth work?",
+                "answer": "SavePlanetEarth derives funds for growing trees through two main mechanisms: Climate wallet and direct sponsorships from donors, well-wishers, institutions, etc. The second mechanism of generating funds for SavePlanetEarth is through direct sponsorships from donors, well-wishers, institutions, etc., that you can consider helping us be able to do!"
+            },
+            {
+                "question": "What are Legal Safeguards for funds we help create?",
+                "answer": "All funds received and used by the SavePlanetEarth program are accountable for on the blockchain. As the program is registered also in the UK, it is subject to the purview of and oversight by the British Accounting System. Our association with the Governments also keeps an austere, checks and balances system well in place."
+            },
+            {
+                "question": "What makes SavePlanetEarth and its programs distinctly efficient than other sequestration programs?",
+                "answer": "The SavePlanetEarth program is designed to avert bulky bureaucratic processes that impede development. We do so by securing formidable ties with local administrators and action groups in a swift yet accountable manner. To do this an empowerment system would be made operative where we institute horizontal management systems in addition to established management structures and make them overall efficient by recourse to time study, and work measurement all part of work-study among our field practitioners."
+            },
+            {
+                "question": "If I were to contact SavePlanetEarth to start an Action Group in my own country, How do I start ?",
+                "answer": "Please email us at <a href='mailto:initiatives@saveplanetearth.io'>initiatives[at]saveplanetearth.io</a> for an initial discussion. We welcome tree planting in every corner of the globe. All funds received and deployed by the SavePlanetEarth program are accountable for on the blockchain. As the program is registered also in the UK, it is subject to the purview of and oversight by the British Accounting System. Our association with the Governments also keeps an austere, checks and balances system well in place."
+            }
+        ]
+    },
+    "donation": {
+        "title": "Support the project",
+        "addressCopy": "Address copied Successfully",
+        "wallets": [
+            {
+                "address": "0x51E6d08721401f2ec874C996fcE0f1bCBF9317c9",
+                "description": "We're not a charity token, but we accept donations towards the work we're doing to develop the project and help preserve the environment. This is the official SavePlanetEarth ERC20/BEP20 address for crypto donations, all forms of crypto are accepted.",
+                "enabled": true
+            }
+        ]
+    },
+    "contact": {
+        "title": "Send us a Message",
+        "description": "Feel free to reach out with any suggestions or inquiries you may have!",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "reason": "Reason for Message",
+        "message": "Your Message",
+        "submit": "Submit"
+    },
+    "footer": {
+        "description": "Save Planet Earth. All Rights Reserved.\nWebsite design by Convene Studio."
+    }
+}
