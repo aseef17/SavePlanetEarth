@@ -3,6 +3,46 @@
     "whitePaperURL": "https://saveplanetearth.io/SPE_WhitePaper.pdf",
     "announcements": [
         {
+            "announcementType": "achievement",
+            "announcementLabel": "SPE_YAHOO_CERTIK",
+            "announcementTitle": "Yahoo finance announces our perfect Certik audit",
+            "announcementDescription": "Yahoo finance, one of the biggest publications globally has reported on $SPE getting a perfect score in their audit by the industry leader in smart contract audits, Certik!💯",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/yahoo-certik-announcement.png",
+            "clickable": true,
+            "redirectURL": "https://finance.yahoo.com/news/save-planet-earth-token-receives-183500501.html",
+            "actionButtonTitle": "View Article"
+        },
+        {
+            "announcementType": "news",
+            "announcementLabel": "SPE_360_INTERVIEW_2",
+            "announcementTitle": "Imran x 360Trader 2nd Interview",
+            "announcementDescription": "Imran Ali and 360Trader’s second interview collaboration – What can one person do when the World is so big? 🎤 📹",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/360trader-interview-announcement.jpeg",
+            "clickable": true,
+            "redirectURL": "https://www.youtube.com/watch?v=JvPDgFDTVK8",
+            "actionButtonTitle": "View Interview"
+        },
+        {
+            "announcementType": "achievement",
+            "announcementLabel": "SPE_CERTIK_AUDIT",
+            "announcementTitle": "Perfect Audit Score from CertiK ✅",
+            "announcementDescription": "$SPE just got a PERFECT AUDIT from CertiK, industry leader in smart contract audits 📝 ✅",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/certik-audit-announcement.jpeg",
+            "clickable": true,
+            "redirectURL": "https://www.certik.org/projects/saveplanetearth",
+            "actionButtonTitle": "Check Audit"
+        },
+        {
+            "announcementType": "news",
+            "announcementLabel": "SPE_360_INTERVIEW_1",
+            "announcementTitle": "$SPE x 360Trader Interview",
+            "announcementDescription": "Imran Ali and 360Trader first interview collaboration – Getting familiar. 🎤 📹",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/360trader-interview-announcement.jpeg",
+            "clickable": true,
+            "redirectURL": "https://www.youtube.com/watch?v=Xlr3Ac_13y8",
+            "actionButtonTitle": "View Interview"
+        },
+        {
             "announcementType": "news",
             "announcementLabel": "SPE_COINTELEGRAPH_AMA",
             "announcementTitle": "Imran Ali (Founder) │ 中文 CoinTelegraph Interview 📹",

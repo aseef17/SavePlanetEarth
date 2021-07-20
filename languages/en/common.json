@@ -263,6 +263,48 @@
                 ]
             },
             {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/ccc.png",
+                "name": "Carbon Consulting Company",
+                "designation": "",
+                "description": "The Carbon Consulting Company is one of South Asia's leading provider of Corporate Sustainability Advisory Services. Initially the company was set up by a team of 'green visionaries' to bring the concept of Carbon Footprinting and offsetting into the local marketplace. The company has expanded into many other aspects of environmental sustainability, Water Footprinting , Bio-diversity Assessment and Waste Management to name a few. CCC operations have expanded regionally and internationally to encompass The Maldives and India as well as other continents - paving the way for CCC to take an international role in sustainability advocacy.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.carbonconsultingcompany.com",
+                        "socialName": "Website"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/mohan.jpg",
+                "name": "Prof. Mohan Munasinghe",
+                "designation": "",
+                "description": "• Former Vice-Chair of the Intergovernmental Panel on Climate Change (IPCC), which shared the 2007 Nobel Peace Prize with former Vice-President of the United States Al Gore.\n• Founder Chairman of the Munasinghe Institute for Development (MInD) and MInD Group.\n• Professor of Sustainable Development Studies at various international universities including the University of Manchester, Peking University and Federal University Brazil, and is a Senior Advisor to the Government of Sri Lanka and formerly the US Government.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
+                        "clickable": true,
+                        "redirectURL": "http://www.mohanmunasinghe.com/",
+                        "socialName": "Website"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/sanith.jpg",
+                "name": "Sanith de Silva Wijeyeratne",
+                "designation": "",
+                "description": "After assuming responsibility for the overall management and strategic direction of the company Sanith has guided the company to not only become the most recognised provider of carbon assessment, mitigation and offset solutions, but also to become known for its expertise in a diverse array of sustainability solutions.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/sanith-de-silva-wijeyeratne-5a0b9217",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/salih.jpeg",
                 "name": "Sajid Salih",
                 "designation": "Product Manager",
@@ -292,7 +334,7 @@
             },
             {
                 "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/iftikhar.jpeg",
-                "name": "Iftikhar Bokhari",
+                "name": "Dr. Iftikhar Bokhari",
                 "designation": "Technical Advisor",
                 "description": "Over 25 years of experience in project management and a recognized track record of delivering multi million pound contracts for urban regeneration and project engineering within the UK. Specializing in energy from waste systems, integration of renewable technologies for domestic and commercial applications, research and strategic planning.",
                 "socials": []
