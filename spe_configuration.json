@@ -3,6 +3,16 @@
     "whitePaperURL": "https://saveplanetearth.io/SPE_WhitePaper.pdf",
     "announcements": [
         {
+            "announcementType": "news",
+            "announcementLabel": "SPE_360_INTERVIEW_3",
+            "announcementTitle": "Imran x 360Trader 3rd Interview",
+            "announcementDescription": "Imran Ali and 360Traders third interview collaboration - A deep dive into $SPE's Tokenomics and utility! 🎤 📹",
+            "announcementImageURL": "https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/assets/announcements/360trader-interview-announcement.jpeg",
+            "clickable": true,
+            "redirectURL": "https://www.youtube.com/watch?v=4O6jrBVmgwM",
+            "actionButtonTitle": "View Interview"
+        },
+        {
             "announcementType": "achievement",
             "announcementLabel": "SPE_YAHOO_CERTIK",
             "announcementTitle": "Yahoo finance announces our perfect Certik audit",
