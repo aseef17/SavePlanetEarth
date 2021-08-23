@@ -1,0 +1,448 @@
+{
+    "welcome": "$SPE 공식 홈페이지",
+    "navigation": {
+        "home": "홈",
+        "homeLabel": "Home",
+        "about": "소개",
+        "aboutLabel": "About",
+        "documents": "자료",
+        "whitepaper": "백서",
+        "certik": "Certik Audit",
+        "techrate": "TechRate Audit",
+        "roadmap": "로드맵",
+        "roadmapLabel": "Roadmap",
+        "tokenomics": "토크노믹스",
+        "tokenomicsLabel": "Tokenomics",
+        "markets": "마켓",
+        "team": "멤버",
+        "teamLabel": "Our Team",
+        "contact": "연락처",
+        "contactLabel": "Contact Us",
+        "blog": "블로그",
+        "metamask": "MetaMask에 추가",
+        "buy": "바로 구매",
+        "metamaskError": "토큰을 추가하는 데 문제가 있음",
+        "metamaskChainError": "스마트 체인 네트워크로 바꾸기",
+        "metamaskSuccess": "$SPE를 MetaMask에 성공적으로 추가 완료"
+    },
+    "hero": {
+        "description": "탄소 격리 크립토 프로젝트",
+        "charts": "차트",
+        "contractCopy": "Contract Address 복사 완료"
+    },
+    "introduction": {
+        "title": "Save Planet Earth 크립토 토큰",
+        "description": "전략적 파트너십, 학술적 지원, 강력한 신생 암호화 통화 커뮤니티를 통해 국제 원조 기구 및 일반 대중과 협력하여 탄소 격리 기능을 통해 지구 지형을 크게 변화시킬 수 있는 요소들을 꾸렸습니다. 우리의 전반적인 목표는 향상된 녹색(나무 덮개) 개발과 더 나은 해양 관리, 보다 의미 있는 법적 통제를 위한 로비 및 기후 변화의 실제 비용에 직면하기 위한 상업적 시장 성숙을 달성하는 것입니다.",
+        "buyInstructions": "구매 방법 보기"
+    },
+    "tokenData": {
+        "holdersTitle": "총 보유자들",
+        "holdersDescription": "귀중한 다이아몬드 손",
+        "treesTitle": "계약된 나무 수",
+        "treesDescription": "SPE가 심을 계약한 총 나무의 수",
+        "burntTokensTitle": "태운 토큰 수",
+        "burntTokensDescription": "총 SPE가 영구적으로 태운 토큰의 수"
+    },
+    "cciIndex": {
+        "title": "CCI 지수",
+        "explanation": "격리된 톤의 등가물(101,015,342그루의 나무는 심고 모니터링하도록 계약되어 있으며 각 나무마다 평균 1tCO2e를 포함)을 사용하여 CCI 값을 계산할 수 있습니다.\n$SPE의 CCI = 격리된 탄소의 양을 SPE 토큰으로 나눈 값입니다.",
+        "description": "위 모델은 나무를 심은 후 모니터링하는 모든 나무를 반영하며, 복합 효과를 활용합니다. 우리는 탄소를 격리함에 따라 더 많은 크레딧이 판매될 것이며, 그 수익금은 추가 탄소를 격리하고 더 많은 탄소 크레딧을 생산하여 긍정적인 복합 효과를 창출합니다."
+    },
+    "globalWarmingIndex": {
+        "title": "지구 온난화 지수",
+        "asOf": "현재",
+        "description": "이 숫자는 19세기 후반 이후 인간이 일으킨 지구 온난화에 대한 2차 평가까지 보여줍니다. 2015년 파리 협약에서 전 세계 국가들은 기후 변화의 최악의 영향을 피하기 위해 지구 온난화를 2도 이하, 이상적으로는 1.5도로 유지하는 방향으로 노력하기로 합의했습니다.",
+        "source": "출저"
+    },
+    "whitePaperSection": {
+        "description1": "Save Planet Earth가 더 궁금하십니까??",
+        "description2": "당신이 알아야 할 모든 것이 백서에 쓰여 있습니다.",
+        "download": "백서 다운로드"
+    },
+    "roadmap": {
+        "title": "로드맵",
+        "roadmapData": [
+            {
+                "title": "1단계",
+                "year": "2021",
+                "image": "rocket",
+                "lottieAssetPath": "assets/animations/roadmap-phase1-rocket.json",
+                "content": [
+                    {
+                        "heading": "DxSale 사전 판매",
+                        "text": "DxSale 사전 판매는 125BNB 하드 캡과 10BNB 최대 구매로 진행되었습니다.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "BSC MainNet 출시",
+                        "text": "BSC MainNet에 대한 초기 출시는 2021년 4월 9일에 이루어졌습니다.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "유동성 잠금",
+                        "text": "2026년 4월 9일까지 DxSale을 통해 유동성이 잠겨 토큰 러그풀을 자유롭게 안전하게 사용할 수 있습니다.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "스마트 계약 소유권 포기",
+                        "text": "스마트 계약의 소유권을 포기하여 수정이 불가능하고 100% 안전합니다.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "다중 감사",
+                        "text": "스마트 계약 감사는 업계를 선도하는 Certik Audit 대기자 명단에 있는 동안 여러 감사 그룹에 의해 신청 및 완료됩니다.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "CoinGecko & CoinMarketCap",
+                        "text": "CoinGecko & CoinMarketCap을 포함한 여러 상장 서비스가 신청됩니다.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "교환소 어플",
+                        "text": "WhiteBIT and BitMart를 포함한 교환소 어플에 추가됩니다.",
+                        "status": "Done"
+                    }
+                ]
+            },
+            {
+                "title": "2단계",
+                "year": "2021",
+                "image": "phone",
+                "lottieAssetPath": "assets/animations/roadmap-phase2-phone.json",
+                "content": [
+                    {
+                        "heading": "v1세이브플래닛어스(SavePlanetEarth) 안드로이드/IOS 어플 개발/배포",
+                        "text": "다양한 초기 기본 기능과 지속적인 업데이트를 갖춘 첫 번째 버전의 iOS 및 Android 앱을 개발 및 배포될 예정입니다",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "v2 세이브플래닛어스(SavePlanetEarth) 안드로이드/iOS 어플 혁신적인 개발",
+                        "text": "Save Planet Earth 앱의 v2 개발은 3분기 초에 시작될 때까지 계속될 것입니다. 이 앱은 주로 산림녹화 및 탄소 격리/신용도와 관련하여 많은 혁신적인 기능을 제공할 예정입니다.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "탄소 격리",
+                        "text": "전 세계에 나무 심기, 보육원, 재활용에 참여.\n몰디브의 해양/해변 청소에서 플라스틱을 재활용할 예정입니다.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "나라와-국가와의 파트너십",
+                        "text": "기후 변화, 해수면 상승 및 기타 환경 위험에 대처하기 위한 영구적인 해결책을 가져오기 위한 특정 국가 및 정부와의 파트너십을 맺을 예정입니다.\nSriKana – 1억 트리 이니셔티브 \nSriKana State Plantations Corporation, JEDB, Kotagala Plantations PLC, Maturata Plantations\n 산림부, 스리랑카 군사 중앙 환경청 \nNDP 스리랑카\nMaldives, 1HDC 몰디브, MITDC 몰디브 \nSave the Beach, 어린이를 위한 권리 옹호(ARC) \n(다른 국가 및 NGO와 지속적인 논의 중입니다)",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "세이브플래닛어스 상품",
+                        "text": "$SPE 상품은 2분기 말에 웹 사이트에 있는 상점과 함께 사용할 수 있으며, 커뮤니티에서는 $SPE 토큰이나 다른 암호화폐로 다양한 기사를 구입할 수 있습니다. 해변/해양 청소 활동에서 회수된 플라스틱은 상품에 사용되며, 수익은 프로젝트에 재투자됩니다. ",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "교환소 목록",
+                        "text": "세이브플래닛어스는 2분기에 많은 교환소에 등록될 것입니다 \nBitmart  - WhiteBIT  - CoinTiger  - Hotbit \n다른 거래소와 협의 중입니다",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "티어1 교환소 어플리케이션",
+                        "text": "이제 세이브 플래닛어스(SavePlanetEarth)는 2분기에 더 개발됨으로써 됨으로써 Gate.io, Huobi, Kucoin, Binance, Coinbase 를 포함하되 이에 국한되지 않는 다양한 티어1 교환소에 적용될 것입니다.",
+                        "status": "InProgress"
+                    }
+                ]
+            },
+            {
+                "title": "3단계",
+                "year": "2021",
+                "image": "tree",
+                "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
+                "content": [
+                    {
+                        "heading": "혁신적인 v2 세이브플래닛어스(SavePlanetEarth) 안드로이드/IOS 어플 론칭 ",
+                        "text": "3분기 초에 세이브플래닛어스(SavePlanetEarth)는 다음 버전의 $SPE 안드로이드/iOS 앱을 시작할 계획입니다. v1 앱의 모든 기능은 물론, 세계가 보지 못한 다양하고 혁신적인 여러 가지 기능을 포함하게 될 것입니다. 주로 매우 상세한 산림녹화 측정 지표와 탄소 격리/인정비율 계산 및 인증에 관한 내용입니다",
+                        "status": ""
+                    },
+                    {
+                        "heading": "티어1 교환소 목록",
+                        "text": "세이브플래닛어스(SavePlanetEarth)는 다양한 티어1 교환소에 등록이 될 것입니다.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "탄소 크레딧 증명서",
+                        "text": "세이브플래닛어스(SavePlanet Earth)는 여러 탄소 신용 인증 기관에 $SPE를 등록하여 탄소 신용으로 활용할 수 있도록 합니다. $SPE를 사용하여 기업의 탄소 배출량을 상쇄할 수 있습니다. 이것은 가까운 미래에 수조 달러의 가치가 있는 계속 성장하는 시장입니다.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "오프셋 인센티브",
+                        "text": "인증 후, 기업 및 개인이 탄소 발자국을 상쇄할 수 있는 또 다른 방법은 나무를 심는 데 기부하고 탄소 중립/부정 가상 NFT 인증서를 받는 것입니다. 기술이 빠르게 진화하고 있는 가운데 NFT는 3분기에 탄소 중립/부정 블록 체인 TBA에 투입될 예정입니다.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "오리지널 NFT를 주조합니다.",
+                        "text": "NFT 경매를 통해 알려진 아티스트를 위탁하여 수익을 재투자하는 프로젝트입니다. 기술이 빠르게 진화하고 있는 가운데 NFT는 3분기에 탄소 중립/부정 블록 체인 TBA에 투입될 예정입니다.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "탄소 격리를 지속하고 나라-국가와의 파트너십을 지속적으로 확대합니다",
+                        "text": "전 세계에 걸쳐 나무 심기, 보육원, 재활용에 지속적으로 참여합니다. 더 많은 나라들과 NGO들이 증가하는 목록에 추가될 것이고 우리는 함께 기후 변화에 움츠러들 것입니다.",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "title": "4단계",
+                "year": "2022",
+                "image": "contact",
+                "lottieAssetPath": "assets/animations/roadmap-phase4-contact.json",
+                "content": [
+                    {
+                        "heading": "전략적 연결",
+                        "text": "금속, 플라스틱, 도시 고체 폐기물 및 오염을 유발할 수 있는 기타 구성 요소의 사용을 포함하는 재활용 산업의 중요한 조직과 협력합니다. 예를 들어, 금속 등으로 인한 잠재적 카드뮴과 중금속 중독 등을 전략적으로 계획하여 계획하지 않은 기후변화 해결책 자체가 지구 기후변화와의 전쟁에서 추가적인 부담을 지지 않도록 해야 합니다.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "글로벌 도입",
+                        "text": "쓰레기 더미를 방지하고 기후 변화에 대처하는 데 적극적인 비영리 단체, 국가 및 세계적으로 유명한 단체와의 광범위한 파트너십을 제공합니다.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "미래의 거래 메커니즘",
+                        "text": "폐기물, 오염 및 자원 자재의 사용을 다루기 위해 재생 에너지 분야에서 구현되는 혁신적인 기술은 필연적으로 환영받지 못하는 (새로운) 오염 흐름을 야기시킬 것입니다. 예를들어, 수명 말기의 태양전지는 쉽게 금속 독과 다른 독소를 토양에 축적시킬 수 있습니다. 이러한 새로운 오염 흐름은 SavePlanetEarth가 선두에 서서 미래의 거래 메커니즘으로 기회를 창출하는 새로운 정화 프로세스와 입법 시대를 탄생시킬 것입니다. (더 자세한 사항은 추가될 에정)",
+                        "status": ""
+                    },
+                    {
+                        "heading": "더 많은 티어1 교환소 목록",
+                        "text": "Tier 1 교환소 애플리케이션은 지속적인 프로세스가 될 것입니다.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "탄소 교환",
+                        "text": "더더욱이 저희가 인정을 받게 되면 탄소배출권거래소에도 신청하고 상장할 수 있게 되며, 탄소배출권을 교환하여 탄소배출권을 더 많은 탄소배출에 재투자함으로써 지구 기후변화 퇴치와 지구구제를 위한 지속가능한 모델을 만들 수 있게 될 것입니다.",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "roadmapEndText": "그리고 더..."
+    },
+    "tokenomics": {
+        "title": "기본 토크노믹스",
+        "hint": "탭을 눌러 토크노믹스를 표시합니다",
+        "totalSupplyTitle": "총 공급량",
+        "totalSupplyDescription": "생성된 총 토큰 수",
+        "burntTokensTitle": "태워진 토큰 수",
+        "burntTokensDescription": "영구히 태워진 SPE의 총 수",
+        "preSaleTitle": "프리 세일",
+        "preSaleDescription": "판매되지 않은 태워진 토큰",
+        "pcsLPTitle": "PCS LP",
+        "pcsLPDescription": "팬케이크 스왑 목록 풀",
+        "rewardsTitle": "보상",
+        "rewardsDescription": "보유자에게 보상합니다! 각 거래의 2%가 SPE 보유자에게 즉시 지급됩니다. 보유량에 비례합니다."
+    },
+    "team": {
+        "title": "코어 팀",
+        "description": "완전 도킹된 팀과 함께 전진하는 것이 우리에게 최우선 과제입니다. 우리는 보유자와 커뮤니티가 투자에 자신감을 가지기를 바라며 최대한 투명성을 제공하기를 바랍니다!",
+        "members": [
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/imran.jpeg",
+                "name": "임란 알리",
+                "designation": "창립자",
+                "description": "Citibank, National Health Service, UK 및 외국 정부 기관을 포함한 고성장 조직에서 외부 감사 및 사내 재무 관리 경험을 모두 보유한 최소 10년의 고위 경영자 경험을 보유한 자격을 갖춘 Prince II Practicer입니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/imran-ali-179987158",
+                        "socialName": "링크드인"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/priyantha.jpeg",
+                "name": "프리얀타 위제수오리야 박사",
+                "designation": "팀 멤버",
+                "description": "미국 및 스리랑카에서 훈련된 에너지 엔지니어입니다(BSC 및 MS 에너지 공학 박사, 자원 경제 및 세대간 주식 박사). Massachusetts 대학의 Rotary Foundation Scholar이며, 수년간 재생 에너지 프로젝트와 지속 가능한 개발을 개척해 왔습니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/dr-priyantha-wijesooriya-091a3416",
+                        "socialName": "링크드인"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/ccc.png",
+                "name": "탄소 컨설팅 회사",
+                "designation": "",
+                "description": "Carbon Consulting Company는 남아시아의 기업 지속 가능성 자문 서비스 제공업체 중 하나입니다. 처음에 이 회사는 탄소 발자국과 상쇄 개념을 현지 시장에 도입하기 위해 '친환경 비전가' 팀에 의해 설립되었습니다. 이 회사는 환경 지속가능성, 물 발자국 관리, 생물 다양성 평가 및 폐기물 관리의 다른 여러 측면으로 확장되었습니다. CCC 운영은 몰디브와 인도뿐만 아니라 다른 대륙까지 지역 및 국제적으로 확대되어 CCC가 지속가능성 옹호에서 국제적 역할을 수행할 수 있는 기반을 마련했습니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.carbonconsultingcompany.com",
+                        "socialName": "웹사이트"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/mohan.jpg",
+                "name": "모한 무나싱헤 교수",
+                "designation": "",
+                "description": "• 2007년 노벨 평화상을 앨 고어 전 미국 부통령과 공동 수상한 기후변화 정부간 패널(IPCC)의 전 부회장입니다.\n• MIND(Munasinghe Institute for Development) 및 MIND 그룹의 설립자 회장입니다.\n• 맨체스터 대학교, 북경 대학교 및 브라질 연방 대학교를 포함한 다양한 국제 대학의 지속 가능한 개발 연구 교수이며, 스리랑카 정부 및 이전 미국 정부의 선임 고문입니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
+                        "clickable": true,
+                        "redirectURL": "http://www.mohanmunasinghe.com/",
+                        "socialName": "웹사이트"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/sanith.jpg",
+                "name": "사니스 데 실바 위예라트네",
+                "designation": "",
+                "description": "회사의 전반적인 경영 및 전략적 방향에 대한 책임을 지고 탄소 평가, 완화 및 상쇄 솔루션 분야에서 가장 인정받는 공급자가 될 뿐만 아니라 다양한 지속가능성 솔루션 분야의 전문성으로도 알려지도록 안내했습니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/sanith-de-silva-wijeyeratne-5a0b9217",
+                        "socialName": "링크드인"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/salih.jpeg",
+                "name": "사지드 살리",
+                "designation": "담당 책임자",
+                "description": "2016년부터 스타트업과 함께 기업 재무, 프로젝트 관리, eCommerce, 모바일 플랫폼 분야에서 경험을 쌓았다. 그는 접대 산업, 사업 계획, 프로젝트 관리, 재무 회계 및 마케팅 분야에서 일한 경력을 가진 숙련된 마케팅 관리자입니다. MSC의 강력한 마케팅 전문가인 International Business Management는 웨스트 런던 대학의 제품과 서비스 확장 전략에 초점을 맞췄습니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/thatsalih",
+                        "socialName": "링크드인"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/rahula.jpeg",
+                "name": "라훌라 애탈리지 교수",
+                "designation": "기술 고문",
+                "description": "라훌라 애탈리지(Rahula Atallage) 교수는 프랑스 파리의 Ecole Nationale Superieure des Mines de Paris에서 에너지 공학 박사 학위를 받았습니다. 그는 모라투와 대학 기계공학과에서 기계공학과 수석교수로 일하였습니다. Attallage 교수는 다양한 과학 출판물로 우수 연구상과 대통령상을 여러 차례 수상했습니다. 그의 최근 업적은 프랑스 정부가 수여하는 '학술야자 훈장'의 명예훈장입니다. ",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/rahula-attalage-b8288517",
+                        "socialName": "링크드인"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/iftikhar.jpeg",
+                "name": "이프티카르 복하리 박사",
+                "designation": "기술 고문",
+                "description": "25년 이상의 프로젝트 관리 경험과 영국 내 도시재생 및 프로젝트 엔지니어링을 위한 수백만 파운드의 계약을 이행한 공인된 기록를 가지고 있습니다. 폐기물 시스템의 에너지 전문화, 국내 및 상업용 재생 기술 통합, 연구 및 전략을 기획했습니다.",
+                "socials": []
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/graham.jpeg",
+                "name": "그레이엄 월윈",
+                "designation": "기술 고문",
+                "description": "전기 설계, 비용 분석 및 조달 분야를 전문으로 하는 시니어 프로젝트 엔지니어. 의료, 상업 및 주거 시스템에서 수백만 파운드 규모의 개발 작업을 수행했습니다. 또한 재생 에너지 기술의 설계, 설치 및 유지 보수 전문입니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/graham-walwyn-ceng-84963830",
+                        "socialName": "링크드인"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/waqar.jpeg",
+                "name": "와카르 아흐메드 교수",
+                "designation": "기술 고문",
+                "description": "30년 이상 공학과 과학 분야에서 산업 및 학술적 경험을 쌓았다. 재생 에너지 기술과 지속가능성에 초점을 맞춘 실험 나노 물리학 그룹을 이끌고 있습니다. 광범위한 엔지니어링 및 과학 저널에 500개 이상의 출판물을 인증받았으며 유럽, 중동, 미국 및 아시아 지역의 많은 프로젝트에서 작업했습니다.",
+                "socials": []
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/bart.png",
+                "name": "바트 베이커",
+                "designation": "마케팅 고문",
+                "description": "바트 베이커는 중국과 전 지역에서 4천만 명 이상의 팔로워와 두인, 쿠아수, 웨이보에서 2,500만 명 이상의 팔로워가 있는 최고의 미국 인플루언서입니다. 미국에서도 바트는 1,600만 명의 팔로워와 유튜브에만 1천만 명이 넘는 팔로워를 가지고 있습니다. 2018년부터 크립토에 참여했으며 Brave 라는 웹 브라우저를 총 100만 번 이상의 다운로드를 받을 수 있도록 도왔습니다. 또한 전세계 미디어에도 접촉하고 있으며 SavePlanetEarth가 널리 인식되도록 돕고 있습니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/twitter.png",
+                        "clickable": true,
+                        "redirectURL": "https://twitter.com/bartbaker",
+                        "socialName": "트위터"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/aaron.jpeg",
+                "name": "애런 베른하르트",
+                "designation": "개발자",
+                "description": "JavaScript - jQuery, 부트스트랩 및 Infragistics, HTML, C#/ASP 경험이 있는 풀 스택 엔지니어.NET - MVC 아키텍처, LINQ 라이브러리, 모델-컨트롤러-뷰 구축, 의존성 주입(Dependency Injection), 엔티티 프레임워크 SQL(T-SQL), Python을 사용합니다.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/aaron-bernhardt-143893b9",
+                        "socialName": "링크드인"
+                    }
+                ]
+            }
+        ]
+    },
+    "faq": {
+        "title": "자주 묻는 질문",
+        "questions": [
+            {
+                "question": "Save Planet Earth는 기후 위기에 어떻게 대처할 계획입니까?",
+                "answer": "스리랑카, 몰디브, 영국 등 전 세계 국가들을 통한 전략적 협력과 기부를 통해 자금을 무한정 지원함으로써 탄소 금지를 위한 대규모 이니셔티브를 추진할 계획입니다."
+            },
+            {
+                "question": "SavePlanetEarth의 후원 프로그램 및 기금 메커니즘은 어떻게 작동합니까?",
+                "answer": "SavePlanetEarth는 두 가지 주요 메커니즘을 통해 나무를 재배하기 위한 자금을 조달합니다. 첫 번째는 기후 지갑과 기부자, 후원자, 기관 등의 직접적인 후원을 받습니다. SavePlanetEarth를 위한 기금을 조성하는 두 번째 메커니즘은 기부자, 후원자, 기관 등의 직접적인 후원을 통해 이루어지며, 당신도 후원을 통해 도와주시는 걸 고려해 볼 수 있습니다!"
+            },
+            {
+                "question": "우리가 조성하는 자금에 대한 법적 보호책은 무엇입니까?",
+                "answer": "SavePlanetEarth 프로그램에 의해 수신되고 사용되는 모든 자금은 블록체인에 대한 책임이 있습니다. 이 프로그램은 영국에도 등록되어 있기 때문에 영국 회계 시스템의 관리 및 감독 대상이 됩니다. 정부와의 협력은 또한 엄격한 시스템을 유지하고, 견제와 균형을 잘 유지합니다."
+            },
+            {
+                "question": "SavePlanetEarth와 그 프로그램을 다른 격리 프로그램보다 더 효율적으로 만드는 것은 무엇입니까?",
+                "answer": "SavePlanetEarth 프로그램은 개발을 방해하는 방대한 관료적 프로세스를 방지하도록 설계되었습니다. 우리는 신속하고 책임감 있는 방식으로 지역 관리자와 행동 그룹과의 강력한 유대 관계를 확보함으로써 그렇게 합니다. 이를 위해 현장 실무자들 사이에서 시간 연구 및 업무 측정에 의존하여 수평적 관리 시스템을 구축하고 이를 전체적으로 효율적으로 만드는 역량 강화 시스템이 운영될 것입니다."
+            },
+            {
+                "question": "자국에서 액션 그룹을 시작하기 위해 SavePlanetEarth에 연락하려면 어떻게 시작해야 합니까?",
+                "answer": "초기 논의를 위해<a href='mailto:initiatives@saveplanetearth.io'>initiatives[at]saveplanetearth.io</a>으로 이메일을 보내주십시오. 우리는 지구 구석구석에 나무 심기를 환영합니다. SavePlanetEarth 프로그램에 의해 수신되고 배포된 모든 자금은 블록체인에 대한 책임이 있습니다. 이 프로그램은 영국에도 등록되어 있기 때문에 영국 회계 시스템의 관리 및 감독 대상이 됩니다. 정부와의 협력은 또한 엄격한 시스템을 유지하고, 견제와 균형을 잘 유지합니다."
+            }
+        ]
+    },
+    "donation": {
+        "title": "프로젝트 후원",
+        "addressCopy": "주소가 성공적으로 복사되었습니다.",
+        "wallets": [
+            {
+                "address": "0x51E6d08721401f2ec874C996fcE0f1bCBF9317c9",
+                "description": "우리는 자선 토큰은 아니지만, 프로젝트를 개발하고 환경 보존을 돕기 위해 우리가 하고 있는 일에 대한 기부를 받습니다. 이것은 암호기증을 위한 공식 SavePlanetEarth ERC20/BEP20 주소이며, 모든 형태의 암호기가 허용됩니다.",
+                "enabled": true
+            }
+        ]
+    },
+    "contact": {
+        "title": "메세지 보내기",
+        "description": "어떤 제안이나 문의 사항이 있으시면 언제든지 연락하세요!",
+        "firstName": "이름",
+        "lastName": "성",
+        "email": "이메일",
+        "reason": "내용",
+        "message": "메세지",
+        "submit": "보내기"
+    },
+    "footer": {
+        "description": "Save Planet Earth. All Rights Reserved.\nWebsite design by Convene Studio."
+    }
+}

@@ -11,6 +11,24 @@
             "iso": "de",
             "emoji": "🇩🇪",
             "APIURL": "https://saveplanetearth.io/translations/en/common.json"
+        },
+        {
+            "label": "Italian",
+            "iso": "it",
+            "emoji": "🇮🇹",
+            "APIURL": "https://saveplanetearth.io/translations/it/common.json"
+        },
+        {
+            "label": "Korean",
+            "iso": "ko",
+            "emoji": "🇰🇷",
+            "APIURL": "https://saveplanetearth.io/translations/ko/common.json"
+        },
+        {
+            "label": "Portuguese",
+            "iso": "pt",
+            "emoji": "🇵🇹",
+            "APIURL": "https://saveplanetearth.io/translations/pt/common.json"
         }
     ]
 }

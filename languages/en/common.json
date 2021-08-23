@@ -2,16 +2,22 @@
     "welcome": "The official home of $SPE",
     "navigation": {
         "home": "Home",
+        "homeLabel": "Home",
         "about": "About",
+        "aboutLabel": "About",
         "documents": "Documents",
         "whitepaper": "Whitepaper",
         "certik": "Certik Audit",
         "techrate": "TechRate Audit",
         "roadmap": "Roadmap",
+        "roadmapLabel": "Roadmap",
         "tokenomics": "Tokenomics",
+        "tokenomicsLabel": "Tokenomics",
         "markets": "Markets",
         "team": "Our Team",
+        "teamLabel": "Our Team",
         "contact": "Contact Us",
+        "contactLabel": "Contact Us",
         "blog": "Blog",
         "metamask": "Add to MetaMask",
         "buy": "Buy Now",
@@ -39,8 +45,8 @@
     },
     "cciIndex": {
         "title": "CCI Index",
-        "explanation": "By using tonnes sequestered equivalent (15,300 Trees planted and monitored as of today and affiliating 1 tCO₂e for each tree average), we are able to calculate the CCI value.\nCCI of $SPE = How much carbon we have sequestered divided by SPE tokens in circulation.",
-        "description": "The above model takes advantage of a compounding effect. As we sequester carbon, we have more credits to be sold, from which the proceeds go to sequestering additional carbon and in turn producing more carbon credits creating a positive compounding effect."
+        "explanation": "By using tonnes sequestered equivalent (101,015,342 Trees have been contracted to be planted and monitored, affiliating 1 tCO2e for each tree on average), we are able to calculate the CCI value.\nCCI of $SPE = How much carbon we have sequestered, divided by SPE tokens in circulation.",
+        "description": "The above model is reflective on all of the trees being monitored after they have been planted, and takes advantage of compounding effect. As we sequester carbon, we have more credits to be sold, from which the proceeds go to sequestering additional carbon and in turn producing more carbon credits, creating a positive compounding effect."
     },
     "globalWarmingIndex": {
         "title": "Global Warming Index",

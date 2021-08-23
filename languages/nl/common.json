@@ -1,0 +1,448 @@
+{
+    "welcome": "De officiële thuisbasis van $SPE",
+    "navigation": {
+        "home": "Home",
+        "homeLabel": "Home",
+        "about": "Over",
+        "aboutLabel": "Over",
+        "documents": "Documenten",
+        "whitepaper": "Whitepaper",
+        "certik": "Certik Audit",
+        "techrate": "TechRate Audit",
+        "roadmap": "Roadmap",
+        "roadmapLabel": "Roadmap",
+        "tokenomics": "Tokenomics",
+        "tokenomicsLabel": "Tokenomics",
+        "markets": "Markten",
+        "team": "Ons Team",
+        "teamLabel": "Ons Team",
+        "contact": "Contacteer ons",
+        "contactLabel": "Contacteer ons",
+        "blog": "Blog",
+        "metamask": "Voeg toe aan MetaMask",
+        "buy": "Koop nu",
+        "metamaskError": "Er was een probleem met het toevoegen van het token",
+        "metamaskChainError": "Verander naar Smart Chain Network",
+        "metamaskSuccess": "$SPE is succesvol toegevoegd aan jouw MetaMask"
+    },
+    "hero": {
+        "description": "Een koolstofvastlegging crypto project",
+        "charts": "Grafieken",
+        "contractCopy": "Contractadres met succes gekopieerd"
+    },
+    "introduction": {
+        "title": "Save Planet Earth Crypto Munt",
+        "description": "Door strategische samenwerkingen, academische ondersteuningen en een sterk groeiende cryptomunt gemeenschap hebben we een goede mix van ingrediënten om de wereld aanzienlijk te verbeteren op vlak van koolstofvastlegging en dit in samenwerking met internationale hulporganisaties en de hele bevolking. Onze algemene doelstellingen zijn om meer groen (door bomen) te creëren, om te zorgen voor een beter beheer van de zeeën en oceanen, om te lobbyen voor meer betekenisvolle en wettelijke controles en om meer commerciële marktrijpheid te bereiken waardoor we worden wakker geschud en zo de echte kost van klimaatverandering onder ogen kunnen zien.",
+        "buyInstructions": "Zie instructies om te kopen"
+    },
+    "tokenData": {
+        "holdersTitle": "Totaal aantal houders",
+        "holdersDescription": "Onze gewaardeerde 'Diamond hands' aantallen",
+        "treesTitle": "Gecontracteerde bomen",
+        "treesDescription": "Totaal aantal bomen dat SPE heeft geplant",
+        "burntTokensTitle": "Tokens Verbrand",
+        "burntTokensDescription": "Totale hoeveelheid SPE permanent verbrand"
+    },
+    "cciIndex": {
+        "title": "CCI Index",
+        "explanation": "Door ton vastgelegd equivalent te gebruiken (101.015.342 bomen zijn gecontracteerd om geplant en gemonitord te worden, wat gemiddeld 1 tCO2e per boom oplevert), kunnen we de CCI-waarde berekenen.\nCCI van $SPE = Hoeveel koolstof we hebben vastgelegd, gedeeld door SPE tokens in omloop.",
+        "description": "Het bovenstaande model gaat ervan uit dat alle bomen worden gecontroleerd nadat ze zijn geplant, en maakt gebruik van het cumulatie-effect. Naarmate we koolstof vastleggen, hebben we meer credits om te verkopen, waarvan de opbrengst naar de vastlegging van extra koolstof gaat en op zijn beurt meer koolstofkredieten oplevert, waardoor een positief opbouwend effect ontstaat."
+    },
+    "globalWarmingIndex": {
+        "title": "Index van de opwarming van de aarde",
+        "asOf": "Vanaf",
+        "description": "Dit cijfer geeft een actuele beoordeling van de door de mens veroorzaakte opwarming van de aarde sinds de tweede helft van de 19e eeuw. In het akkoord van Parijs van 2015 zijn landen over de hele wereld overeengekomen zich in te zetten om de opwarming van de aarde onder de 2 graden - en idealiter op 1,5 graden - te houden om de ergste gevolgen van de klimaatverandering te voorkomen.",
+        "source": "Bron"
+    },
+    "whitePaperSection": {
+        "description1": "Wil je meer weten over Save Planet Earth?",
+        "description2": "Alles wat u moet weten staat in onze White Paper.",
+        "download": "Download White Paper"
+    },
+    "roadmap": {
+        "title": "Road Map",
+        "roadmapData": [
+            {
+                "title": "Fase 01",
+                "year": "2021",
+                "image": "rocket",
+                "lottieAssetPath": "assets/animations/roadmap-phase1-rocket.json",
+                "content": [
+                    {
+                        "heading": "DxSale Voorverkoop",
+                        "text": "DxSale beurs voorverkoop vond plaats met 125BNB hard cap en 1BNB maximum buy in.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Lancering op BSC MainNet",
+                        "text": "De initiële beurslancering op BSC MainNet vond plaats op 9 april 2021.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Liquiditeitsvergrendeling",
+                        "text": "Liquiditeit zal worden vergrendeld tot 9 april 2026 via DxSale, waardoor de token rug-pull gratis en veilig wordt gemaakt.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Afstand doen van eigendom van het Smart Contract",
+                        "text": "Er wordt afstand gedaan van het eigendom van het smart contract, waardoor er geen wijzigingen kunnen worden aangebracht en het 100% veilig is.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Meerdere Audits",
+                        "text": "Smart Contract Audits zullen worden aangevraagd & voltooid door verschillende auditorganisaties, terwijl we op de wachtlijst staan voor onze toonaangevende Certik Audit.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "CoinGecko & CoinMarketCap",
+                        "text": "Meerdere listingsdiensten, inclusief maar niet beperkt tot: CoinGecko & CoinMarketCap zullen worden aangevraagd.",
+                        "status": "Done"
+                    },
+                    {
+                        "heading": "Uitwisselingstoepassingen",
+                        "text": "Meerdere uitwisselingssystemen zullen worden toegepast, inclusief maar niet beperkt tot WhiteBIT en BitMart.",
+                        "status": "Done"
+                    }
+                ]
+            },
+            {
+                "title": "Fase 02",
+                "year": "2021",
+                "image": "phone",
+                "lottieAssetPath": "assets/animations/roadmap-phase2-phone.json",
+                "content": [
+                    {
+                        "heading": "Ontwikkeling/Release van v1 SavePlanetEarth Android/iOS App",
+                        "text": "Ontwikkeling en lancering van de eerste versie iOS en Android app met een verscheidenheid aan initiële basisfuncties en doorlopende updates.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Ontwikkeling van revolutionaire v2 SavePlanetEarth Android/iOS App",
+                        "text": "De ontwikkeling van v2 van de SavePlanetEarth app zal doorgaan tot de lancering in het begin van kwartaal 3. De app zal veel revolutionaire functies hebben, vooral met betrekking tot herbebossing en koolstofsekwestratie/kredieten.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Koolstofopslag",
+                        "text": "Deelnemen aan het planten van bomen, boomkwekerijen en recycling over de hele wereld.Recycleren van plastic van oceaan/strand schoonmaak op de Malediven (SNEL)",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Partnerschappen met Natie-Staten",
+                        "text": "Partnerschappen met specifieke landen en hun regeringen en diverse NGO's om duurzame oplossingen te vinden voor de bestrijding van de klimaatverandering, de stijging van de zeespiegel en andere gevaren voor het milieu.\nSri Lanka - 100.000.000 bomeninitiatief \nSri Lanka State Plantations Corporation , JEDB , Kotagala Plantations PLC, Maturata Plantations\nForestry Department, Sri Lanka Military\nCentral Environment Authority \nUNDP Sri Lanka\nMaldives – 1,000,000 Bomen initiatief\nHDC Maldives , MITDC Maldives \nRed het strand, Opkomen voor de rechten van kinderen (ARC) \n(Lopende besprekingen met andere landen en NGO's)",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "SavePlanetEarth Koopwaar",
+                        "text": "$SPE koopwaar zal eind 2de kwartaal beschikbaar zijn in de webshop, de gemeenschap zal in staat zijn om een verscheidenheid aan artikelen te kopen met $SPE tokens of een andere cryptocurrency. Kunststoffen die worden teruggewonnen bij het schoonmaken van stranden en oceanen zullen worden gebruikt voor het maken van deze producten, waarvan de winst zal worden geherinvesteerd in het project. ",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Beursnoteringen",
+                        "text": "SavePlanetEarth zal op verschillende beurzen genoteerd staan vanaf het tweede kwartaal\nBitmart  - WhiteBIT  - CoinTiger  - Hotbit \nIn overleg met andere beurzen",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Tier 1 Uitwisselingstoepassingen",
+                        "text": "Als SavePlanetEarth meer gevestigd zal zijn in het tweede kwartaal, zullen meerdere Tier 1 Exchanges worden aangevraagd waaronder, maar niet beperkt tot: Gate.io, Huobi, Kucoin, Binance, Coinbase",
+                        "status": "InProgress"
+                    }
+                ]
+            },
+            {
+                "title": "Fase 03",
+                "year": "2021",
+                "image": "tree",
+                "lottieAssetPath": "assets/animations/roadmap-phase3-tree.json",
+                "content": [
+                    {
+                        "heading": "Lancering revolutionaire v2 SavePlanetEarth Android/iOS-app",
+                        "text": "In het begin van kwartaal drie, is SavePlanetEarth van plan om de volgende versie van de $SPE Android/iOS app te lanceren. Alle functies van de v1 app zullen worden opgenomen plus een breed scala aan nieuwe en revolutionaire aspecten waarvan de wereld nog nooit heeft gehoord, voornamelijk met betrekking tot zeer gedetailleerde herbebossing metrieken en carbon sequestration / credits berekeningen en certificeringen.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Tier 1 Uitwisselingstoepassingen",
+                        "text": "SavePlanetEarth zal op meerdere tier 1 beurzen noteren.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Certificering koolstofkredieten",
+                        "text": "SavePlanetEarth zal bij verschillende certificatie-instellingen voor koolstofkredieten een aanvraag indienen om $SPE te registreren zodat ze als koolstofkredieten kunnen worden gebruikt. $SPE zou dan kunnen worden gebruikt om de koolstofvoetafdruk van bedrijven te compenseren. Dit is een steeds groeiende markt die in de nabije toekomst triljoenen dollars waard zal zijn.",
+                        "status": "InProgress"
+                    },
+                    {
+                        "heading": "Compenserende maatregelen",
+                        "text": "Na certificering, zullen bedrijven en individuen in staat zijn om hun CO2-voetafdruk te compenseren door te doneren om bomen te planten en een CO2-neutraal/negatief virtueel NFT-certificaat te ontvangen. NFT's zullen worden geslagen op een CO2-neutrale/negatieve blockchain TBA in kwartaal drie aangezien de technologie snel evolueert",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Het slaan van originele NFT's",
+                        "text": "Bekende artiesten vragen om pro bono CO2 neutraliserende of CO2 verwijderende NFT-veilingen te steunen van non-profit organisaties.NFT's zullen worden geslagen op een CO2-neutrale/negatieve blockchain TBA in kwartaal drie, aangezien de technologie snel evolueert",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Voortdurende koolstofvastlegging en steeds grotere partnerschappen met nationale staten",
+                        "text": "Blijven deelnemen aan het planten van bomen, kwekerijen opstarten en recycleren over de hele wereld. Nog veel meer landen en NGO's zullen worden toegevoegd aan een groeiende lijst en zo zullen we samen een deuk in de klimaatverandering kunnen slaan.",
+                        "status": ""
+                    }
+                ]
+            },
+            {
+                "title": "Fase 04",
+                "year": "2022",
+                "image": "contact",
+                "lottieAssetPath": "assets/animations/roadmap-phase4-contact.json",
+                "content": [
+                    {
+                        "heading": "Strategische connecties",
+                        "text": "Samenwerken met cruciale entiteiten in de recyclage-industrie met betrekking tot metalen en andere componenten die vervuiling kunnen veroorzaken (bv. cadmium en andere giffen van zware metalen). Deze moeten strategisch gepland worden zodat de oplossingen om de klimaatverandering tegen te gaan niet roekeloos worden toegepast en daardoor een extra belasting kunnen vormen voor het milieu.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Wereldwijde adoptie",
+                        "text": "Samenwerken met non-profit organisaties, natiestaten en wereldberoemde entiteiten die actief zijn in het voorkomen van vuilophoping en het tegengaan van de klimaatverandering",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Toekomstige handelsmechanismen",
+                        "text": "Handelen in ‘futures’ te implementeren in de sector van de hernieuwbare energie om vervuiling en afval tegen te gaan. Het gebruik van hulpbronnen, die onvermijdelijk aanleiding gaan geven tot nieuwe soorten van vervuiling(zonnecellen geven aan het einde van hun levensduur een metaal gif en andere giffen af) te ondersteunen door kritisch te handelen in futures.(Verdere details volgen).",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Meer Tier 1 beursnoteringen",
+                        "text": "Aanvragen en noteringen op lijst 1 beurzen zullen een continu proces zijn.",
+                        "status": ""
+                    },
+                    {
+                        "heading": "Koolstofuitwisseling",
+                        "text": "Als we gecertificeerd zijn, kunnen we ook een aanvraag indienen voor en genoteerd worden op koolstofkredietbeurzen, waarbij we onze koolstofkredieten inruilen voor fondsen die opnieuw worden geïnvesteerd in de vastlegging van steeds meer koolstof, waardoor een duurzaam model ontstaat voor de bestrijding van de wereldwijde klimaatverandering en voor de redding van de planeet Aarde.",
+                        "status": ""
+                    }
+                ]
+            }
+        ],
+        "roadmapEndText": "En verder..."
+    },
+    "tokenomics": {
+        "title": "Basis Tokenomics",
+        "hint": "Druk op de tabs om Tokenomics te onthullen",
+        "totalSupplyTitle": "Totaal aanbod",
+        "totalSupplyDescription": "De totale hoeveelheid tokens gecreëerd",
+        "burntTokensTitle": "Tokens Verbrand",
+        "burntTokensDescription": "Totale hoeveelheid SPE permanent verbrand",
+        "preSaleTitle": "Voorverkoop",
+        "preSaleDescription": "Niet verkochte tokens werden verbrand",
+        "pcsLPTitle": "PCS LP",
+        "pcsLPDescription": "Pancake Swap Listing Pool",
+        "rewardsTitle": "Beloningen",
+        "rewardsDescription": "We belonen onze houders! 2% van elke transactie gaat onmiddellijk naar de SPE-houders, evenredig met hun bezittingen."
+    },
+    "team": {
+        "title": "Kernteam",
+        "description": "Vooruitgaan met een volledig doxxed team heeft voor ons hoge prioriteit. We willen dat houders en de gemeenschap vertrouwen hebben in hun investeringen en hopen zoveel mogelijk transparantie te kunnen bieden!",
+        "members": [
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/imran.jpeg",
+                "name": "Imran Ali",
+                "designation": "Oprichter",
+                "description": "Imran is een gekwalificeerde Prince II-beoefenaar met minimaal 10 jaar ervaring als senior in management. Hij deed ervaring op in zowel externe audits als intern financieel beheer bij snel groeiende organisaties zoals Citibank, National Health Service en buitenlandse overheidsinstellingen.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/imran-ali-179987158",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/priyantha.jpeg",
+                "name": "Dr. Priyantha Wijesooriya",
+                "designation": "Teamlid",
+                "description": "Dr.Priyantha Wijesooriya is a US and Sri Lanka opgeleide energie ingenieur (B.Sc and M.S in Energy Engineering, PhD in Resource Economics & Inter-generational Equities). Hij is een ‘Rotary Foundation’ student aan de universiteit van Massachusetts en heeft jaren baanbrekende hernieuwbare energieprojecten en duurzame ontwikkelingsprojecten gedaan",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/dr-priyantha-wijesooriya-091a3416",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/ccc.png",
+                "name": "Carbon Consulting Company",
+                "designation": "",
+                "description": "The Carbon Consulting Company is een van de toonaangevende aanbieders van duurzaamheidsadviezen aan bedrijven in Zuid-Azië. In eerste instantie werd het bedrijf opgericht door een team van 'groene visionairs' om het concept van Carbon Footprinting en compensatie op de lokale markt te brengen. Het bedrijf heeft zich uitgebreid naar vele andere aspecten van milieuduurzaamheid, zoals Water Footprinting , Bio-diversiteit beoordeling en afvalbeheer om er een paar te noemen. De activiteiten van CCC zijn regionaal en internationaal uitgebreid naar de Malediven en India, evenals naar andere continenten - waarmee de weg is vrijgemaakt voor CCC om een internationale rol op zich te nemen bij het bepleiten van duurzaamheid.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.carbonconsultingcompany.com",
+                        "socialName": "Website"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/mohan.jpg",
+                "name": "Prof. Mohan Munasinghe",
+                "designation": "",
+                "description": "• Voormalig vicevoorzitter van de Intergouvernementele Werkgroep inzake klimaatverandering (IPCC), die de Nobelprijs voor de vrede van 2007 heeft gedeeld met voormalig vice-president van de Verenigde Staten Al Gore.\n• Oprichter en voorzitter van het Munasinghe Institute for Development (MInD) en de MInD Group.\n• Professor Duurzame Ontwikkeling aan verschillende internationale universiteiten, waaronder de Universiteit van Manchester, de Universiteit van Peking en de Federale Universiteit van Brazilië, en is hoogleraar aan de regering van Sri Lanka en voorheen aan de regering van de VS.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/website.png",
+                        "clickable": true,
+                        "redirectURL": "http://www.mohanmunasinghe.com/",
+                        "socialName": "Website"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/sanith.jpg",
+                "name": "Sanith de Silva Wijeyeratne",
+                "designation": "",
+                "description": "Nadat hij de verantwoordelijkheid op zich had genomen voor het algemene management en de strategische richting van het bedrijf, heeft Sanith het bedrijf niet alleen geleid om de meest erkende aanbieder van koolstofevaluatie, -vermindering en -compensatieoplossingen te worden, maar ook om bekend te worden om zijn expertise in een breed scala van duurzaamheidsoplossingen.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/sanith-de-silva-wijeyeratne-5a0b9217",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/salih.jpeg",
+                "name": "Sajid Salih",
+                "designation": "Product Manager",
+                "description": "Sajid Salih heeft in het verleden ervaring opgedaan in corporate finance, project management, eCommerce en mobiele platforms bij startups sinds 2016.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/thatsalih",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/rahula.jpeg",
+                "name": "Prof. Rahula Attallage",
+                "designation": "Technisch Adviseur",
+                "description": "Professor Rahula Attallage behaalde een doctoraat in Energietechniek aan de Ecole Nationale Superieure des Mines de Paris, Frankrijk. Hij heeft gewerkt als senior professor in werktuigbouwkunde aan de faculteit Werktuigbouwkunde van de Universiteit van Moratuwa. Prof. Attallage is meerdere malen onderscheiden met de Outstanding Research Award en Presidential Awards voor diverse wetenschappelijke publicaties. Zijn meest recente prestatie is een ere-onderscheiding van de 'Orde van de Academische Palmen' onderscheiding door de regering van Frankrijk.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/rahula-attalage-b8288517",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/iftikhar.jpeg",
+                "name": "Dr. Iftikhar Bokhari",
+                "designation": "Technisch Adviseur",
+                "description": "Meer dan 25 jaar ervaring in projectmanagement en een erkende staat van dienst in het leveren van multi-miljoen pond contracten voor stedelijke regeneratie en project engineering binnen het Verenigd Koninkrijk. Gespecialiseerd in energie uit afvalsystemen, integratie van hernieuwbare technologieën voor huishoudelijke en commerciële toepassing alsook onderzoek en strategische planning.",
+                "socials": []
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/graham.jpeg",
+                "name": "Graham Walwyn",
+                "designation": "Technisch Adviseur",
+                "description": "Senior Project Engineer, gespecialiseerd in elektrische ontwerpen, kostenanalyse en inkoop. Werkte aan een reeks van multi-miljoen pond ontwikkelingen die varieerde van medische, commerciële tot residentiële systemen. Ook gespecialiseerd in het ontwerp, de installatie en het onderhoud van hernieuwbare energie technologieën.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/graham-walwyn-ceng-84963830",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/waqar.jpeg",
+                "name": "Prof. Waqar Ahmed",
+                "designation": "Technisch Adviseur",
+                "description": "Professor Waqar Ahmed heeft meer dan 30 jaar industriële en academische ervaring in techniek en wetenschap. Hij leidt de Experimental Nano Physics Group die zich richt op duurzame energietechnologie en duurzaamheid. Geaccrediteerd met meer dan 500 publicaties in een reeks van engineering en wetenschappelijke tijdschriften, heeft hij gewerkt in vele projecten in Europa, het Midden-Oosten, Noord- en Zuid-Amerika en Azië.",
+                "socials": []
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/bart.png",
+                "name": "Bart Baker",
+                "designation": "Marketing Adviseur",
+                "description": "Bart Baker is de nummer 1 Amerikaanse influencer in heel China met meer dan 40 miljoen volgers wereldwijd en meer dan 25 miljoen volgers in China op Douyin, Kuaishou, en Weibo. In de Verenigde Staten heeft Bart ook meer dan 16 miljoen volgers, waarvan 10 miljoen alleen al op zijn YouTube.   Baker is sinds 2018 betrokken bij de crypto wereld en hij hielp Brave aan meer dan 1 miljoen downloads van zijn webbrowser.   Hij heeft ook contacten in media wereldwijd en helpt SavePlanetEarth om wijdverspreide bekendheid te bereiken.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/twitter.png",
+                        "clickable": true,
+                        "redirectURL": "https://twitter.com/bartbaker",
+                        "socialName": "Twitter"
+                    }
+                ]
+            },
+            {
+                "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/team/aaron.jpeg",
+                "name": "Aaron Bernhardt",
+                "designation": "Ontwikkelaar",
+                "description": "Full-stack engineer met ervaring in JavaScript - jQuery, bootstrap, en Infragistics, HTML, C#/ASP.NET - MVC architectuur, LINQ bibliotheek, bouwen van modellen, controllers, en views met behulp van Dependency Injection, Entity Framework SQL (T-SQL), en Python.",
+                "socials": [
+                    {
+                        "imageURL": "https://raw.githubusercontent.com/savePlanetEarthToken/SavePlanetEarth/main/assets/socials/linkedin.png",
+                        "clickable": true,
+                        "redirectURL": "https://www.linkedin.com/in/aaron-bernhardt-143893b9",
+                        "socialName": "LinkedIn"
+                    }
+                ]
+            }
+        ]
+    },
+    "faq": {
+        "title": "Vaak gestelde vragen",
+        "questions": [
+            {
+                "question": "Hoe is SavePlanetEarth van plan de klimaatcrisis te bestrijden?",
+                "answer": "Met strategische samenwerkingen van nationale staten zoals Sri Lanka, de Malediven, het Verenigd Koninkrijk en anderen wereldwijd zullen we, naast het gebruik van donaties om onze inspanningen voor onbepaalde tijd te financieren, massaal initiatieven lanceren om te helpen bij de koolstofvastlegging."
+            },
+            {
+                "question": "Hoe werkt het sponsoringprogramma en het fondsmechanisme van SavePlanetEarth?",
+                "answer": "SavePlanetEarth verkrijgt fondsen voor het kweken van bomen via twee hoofdmechanismen: Een klimaatportefeuille en directe sponsoring van donateurs, weldoeners, instellingen, etc. Het tweede mechanisme om fondsen te genereren voor SavePlanetEarth is door directe sponsoring van donateurs, weldoeners, instellingen, etc., die u kunt overwegen om ons te helpen dit alles te kunnen realiseren!"
+            },
+            {
+                "question": "Wat zijn de juridische waarborgen voor fondsen die wij helpen oprichten?",
+                "answer": "Alle fondsen ontvangen en gebruikt door het SavePlanetEarth programma zijn te verantwoorden op de blockchain. Omdat het programma ook is geregistreerd in het Verenigd Koninkrijk, is het onderworpen aan het toezicht van en het toezicht door het Britse boekhoudsysteem. Onze associatie met de regeringen zorgt voor een goede balans en controle van onze systemen."
+            },
+            {
+                "question": "Wat maakt SavePlanetEarth en zijn programma's duidelijk efficiënter dan andere sekwestratieprogramma's?",
+                "answer": "Het SavePlanetEarth programma is ontworpen om logge bureaucratische processen die ontwikkeling belemmeren te vermijden. Wij doen dit door op een snelle maar verantwoordelijke manier sterke banden te smeden met lokale bestuurders en actiegroepen. Daartoe wordt een systeem van 'empowerment' in het leven geroepen, waarbij wij naast de bestaande managementstructuren horizontale managementsystemen invoeren en deze over het geheel genomen efficiënt maken door gebruik te maken van tijd en metingen door onze veldwerkers."
+            },
+            {
+                "question": "Als ik contact zou opnemen met SavePlanetEarth om in mijn eigen land een actiegroep op te richten, hoe begin ik dan ?",
+                "answer": "Stuur een e-mail naar <a href='mailto:initiatives@saveplanetearth.io'>initiatieven[at]saveplanetearth.io</a> voor een eerste gesprek. We verwelkomen boomaanplantingen in elke hoek van de wereld. Alle fondsen ontvangen en ingezet door het SavePlanetEarth programma zijn te verantwoorden op de blockchain. Omdat het programma ook is geregistreerd in het Verenigd Koninkrijk, is het onderworpen aan het toezicht van en de controle door het Britse boekhoudsysteem. Onze associatie met de regeringen houdt ook een sober systeem van controles en garanties in stand."
+            }
+        ]
+    },
+    "donation": {
+        "title": "Steun het project",
+        "addressCopy": "Adres met succes gekopieerd",
+        "wallets": [
+            {
+                "address": "0x51E6d08721401f2ec874C996fcE0f1bCBF9317c9",
+                "description": "We zijn geen liefdadigheidstoken, maar we accepteren donaties voor het werk dat we doen om het project te ontwikkelen en het milieu te helpen beschermen. Dit is het officiële SavePlanetEarth ERC20/BEP20 adres voor crypto donaties, alle vormen van crypto worden geaccepteerd.",
+                "enabled": true
+            }
+        ]
+    },
+    "contact": {
+        "title": "Stuur ons een bericht",
+        "description": "Voel je vrij om contact op te nemen met eventuele suggesties of vragen die je hebt!",
+        "firstName": "Voornaam",
+        "lastName": "Achternaam",
+        "email": "Email",
+        "reason": "Reden van uw bericht",
+        "message": "Uw bericht",
+        "submit": "Verzend"
+    },
+    "footer": {
+        "description": "Save Planeet Aarde. Alle rechten voorbehouden.\nWebsite ontwerp door Convene Studio."
+    }
+}
