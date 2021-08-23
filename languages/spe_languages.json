@@ -29,6 +29,12 @@
             "iso": "pt",
             "emoji": "🇵🇹",
             "APIURL": "https://saveplanetearth.io/translations/pt/common.json"
+        },
+        {
+            "label": "Dutch",
+            "iso": "nl",
+            "emoji": "🇳🇱",
+            "APIURL": "https://saveplanetearth.io/translations/nl/common.json"
         }
     ]
 }
